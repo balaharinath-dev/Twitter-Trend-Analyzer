@@ -1,0 +1,3954 @@
+[
+  {
+    "type": "tweet",
+    "id": "1918612489656221832",
+    "url": "https://x.com/nikhiltrikon/status/1918612489656221832",
+    "twitterUrl": "https://twitter.com/nikhiltrikon/status/1918612489656221832",
+    "text": "Your bank account is frozen. No warning. No help.\n\nThis is happening across India — not to scammers, but to innocent people.\n\nAnd banks are the part of this Scam\n\nNo action by @RBI  yet\n\nCrypto. Betting funds. Scam money.\nOne wrong transaction, and you’re locked out.\n\nIf this happened to you or someone you know, speak up.\n\nLet’s start the movement: #UnfreezeIndia\n\nReply with your story. Let’s make it loud.\n\n#BankScam #DigitalIndia #FintechCrisis #UPIFraud #ConsumerRights",
+    "source": "Twitter for iPhone",
+    "retweetCount": 7,
+    "replyCount": 4,
+    "likeCount": 11,
+    "quoteCount": 1,
+    "viewCount": 724,
+    "createdAt": "Sat May 03 10:23:58 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918612489656221832",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "nikhiltrikon",
+      "url": "https://x.com/nikhiltrikon",
+      "twitterUrl": "https://twitter.com/nikhiltrikon",
+      "id": "754306914444509186",
+      "name": "Nikhil Khandelwal",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1894365098485133312/BzfPBsQB_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/754306914444509186/1746268529",
+      "description": "",
+      "location": "Trikonverse",
+      "followers": 186,
+      "following": 436,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Jul 16 13:29:17 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1964,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 41,
+      "statusesCount": 1031,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "COO @0xtrikon - Simplifying Blockchain",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  4,
+                  13
+                ],
+                "name": "",
+                "screen_name": "0xtrikon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trikon.io",
+                "expanded_url": "http://trikon.io",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/NezK2c0DU8"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/mtptZnb8gx",
+          "expanded_url": "https://twitter.com/nikhiltrikon/status/1918612489656221832/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 768,
+                  "y": 156
+                },
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 792,
+                  "y": 463
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 745,
+                  "y": 912
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 768,
+                  "y": 156
+                },
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 792,
+                  "y": 463
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 745,
+                  "y": 912
+                }
+              ]
+            }
+          },
+          "id_str": "1918612480621744128",
+          "indices": [
+            278,
+            301
+          ],
+          "media_key": "3_1918612480621744128",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqgR+LJFxAACgACGqBH5OOWQIgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqBH4skXEAAKAAIaoEfk45ZAiAAA",
+              "media_key": "3_1918612480621744128"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqBH4skXEAA_ypf.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1536,
+                "w": 768,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1536,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1536,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "w": 1024
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mtptZnb8gx"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            351,
+            365
+          ],
+          "text": "UnfreezeIndia"
+        },
+        {
+          "indices": [
+            411,
+            420
+          ],
+          "text": "BankScam"
+        },
+        {
+          "indices": [
+            421,
+            434
+          ],
+          "text": "DigitalIndia"
+        },
+        {
+          "indices": [
+            435,
+            449
+          ],
+          "text": "FintechCrisis"
+        },
+        {
+          "indices": [
+            450,
+            459
+          ],
+          "text": "UPIFraud"
+        },
+        {
+          "indices": [
+            460,
+            475
+          ],
+          "text": "ConsumerRights"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "478432912",
+          "indices": [
+            176,
+            180
+          ],
+          "name": "ReserveBankOfIndia",
+          "screen_name": "RBI"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919803355129323957",
+    "url": "https://x.com/TheCryptoGuvnor/status/1919803355129323957",
+    "twitterUrl": "https://twitter.com/TheCryptoGuvnor/status/1919803355129323957",
+    "text": "🚨Big news, mob!🚨 \n\n🇺🇸🇮🇳Trump’s just dropped a belter! India’s scrappin’ all tariffs on U.S. goods! Huge win for trade, huge win for crypto! 💪\n\nWhat’s this mean for your bags, ya legends?💬 https://t.co/pMMCQHrLAX",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 135,
+    "createdAt": "Tue May 06 17:16:02 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919803355129323957",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "TheCryptoGuvnor",
+      "url": "https://x.com/TheCryptoGuvnor",
+      "twitterUrl": "https://twitter.com/TheCryptoGuvnor",
+      "id": "1893862121319829504",
+      "name": "The Crypto Guvnor",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1903255105052254208/naAUQGti_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1893862121319829504/1742606354",
+      "description": "",
+      "location": "Down the Dog & Partridge pub",
+      "followers": 893,
+      "following": 1155,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Feb 24 03:17:35 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1662,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 237,
+      "statusesCount": 1030,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "The Crypto Guvnor & his Manor Mob\nSavvy Cockney geezer, $XRP/ $BTC stacked. \nJoin The Manor Mob for crypto banter, insights & crypto craziness!",
+        "entities": {
+          "description": {
+            "symbols": [
+              {
+                "indices": [
+                  56,
+                  60
+                ],
+                "text": "XRP"
+              },
+              {
+                "indices": [
+                  62,
+                  66
+                ],
+                "text": "BTC"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/pMMCQHrLAX",
+          "expanded_url": "https://twitter.com/TheCryptoGuvnor/status/1919803355129323957/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919803163965542400",
+          "indices": [
+            188,
+            211
+          ],
+          "media_key": "13_1919803163965542400",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqkgs5a1lAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqSCzlrWUAAAAA==",
+              "media_key": "13_1919803163965542400"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1919803163965542400/img/oqPil5oz7O1o4Iei.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/pMMCQHrLAX",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21873,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1919803163965542400/pl/KYhMsRhIrMFVeXsH.m3u8?tag=21"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919803163965542400/vid/avc1/480x270/oxzaPj_hZGcDeBUP.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919803163965542400/vid/avc1/640x360/Q2FlXDuuZL5wg8ls.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919803163965542400/vid/avc1/1280x720/Qxbsf0dJyAch_TEQ.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919803163965542400/vid/avc1/1920x1080/IK9j36ruARnsgt-4.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919618371592847739",
+    "url": "https://x.com/Ankur280986/status/1919618371592847739",
+    "twitterUrl": "https://twitter.com/Ankur280986/status/1919618371592847739",
+    "text": "Date 06.05.2025 \nBharat Dynamics\n\nGovernment of India Enterprise. \nIt is engaged in the manufacturing of guided missiles and allied defence equipment/s\n\n#midhani #stockmarket #nifty #banknifty #defencestocks #nft #usdinr #goldrate #tariffwar #crypto #optiontrading #crudeoil https://t.co/SBOxZA7nTA",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 1401,
+    "createdAt": "Tue May 06 05:00:59 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919618371592847739",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Ankur280986",
+      "url": "https://x.com/Ankur280986",
+      "twitterUrl": "https://twitter.com/Ankur280986",
+      "id": "1168498180494745606",
+      "name": "Ankur Singh",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1858896878974255104/yq4Pvkpv_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1168498180494745606/1643997579",
+      "description": "",
+      "location": "Vadodara, Gujarat",
+      "followers": 549,
+      "following": 69,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Sep 02 12:17:48 +0000 2019",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 2048,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1809,
+      "statusesCount": 3313,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "NCFM Certified \n(Technical)\n\nNISM Certified \n(Equity Research Analyst)",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SBOxZA7nTA",
+          "expanded_url": "https://twitter.com/Ankur280986/status/1919618371592847739/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1919617967178055686",
+          "indices": [
+            275,
+            298
+          ],
+          "media_key": "3_1919617967178055686",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqj2l7eGwAGCgACGqPavQcbAXsAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqPaXt4bAAYKAAIao9q9BxsBewAA",
+              "media_key": "3_1919617967178055686"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqPaXt4bAAYaLdR.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 898,
+                "w": 1604,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 898,
+                "w": 898,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 898,
+                "w": 788,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 898,
+                "w": 449,
+                "x": 7,
+                "y": 0
+              },
+              {
+                "h": 898,
+                "w": 1855,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 898,
+            "width": 1855
+          },
+          "sizes": {
+            "large": {
+              "h": 898,
+              "w": 1855
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SBOxZA7nTA"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            153,
+            161
+          ],
+          "text": "midhani"
+        },
+        {
+          "indices": [
+            162,
+            174
+          ],
+          "text": "stockmarket"
+        },
+        {
+          "indices": [
+            175,
+            181
+          ],
+          "text": "nifty"
+        },
+        {
+          "indices": [
+            182,
+            192
+          ],
+          "text": "banknifty"
+        },
+        {
+          "indices": [
+            193,
+            207
+          ],
+          "text": "defencestocks"
+        },
+        {
+          "indices": [
+            208,
+            212
+          ],
+          "text": "nft"
+        },
+        {
+          "indices": [
+            213,
+            220
+          ],
+          "text": "usdinr"
+        },
+        {
+          "indices": [
+            221,
+            230
+          ],
+          "text": "goldrate"
+        },
+        {
+          "indices": [
+            231,
+            241
+          ],
+          "text": "tariffwar"
+        },
+        {
+          "indices": [
+            242,
+            249
+          ],
+          "text": "crypto"
+        },
+        {
+          "indices": [
+            250,
+            264
+          ],
+          "text": "optiontrading"
+        },
+        {
+          "indices": [
+            265,
+            274
+          ],
+          "text": "crudeoil"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919798629339984296",
+    "url": "https://x.com/DeepBlueCrypto/status/1919798629339984296",
+    "twitterUrl": "https://twitter.com/DeepBlueCrypto/status/1919798629339984296",
+    "text": "President Trump says India agreed to eliminate all tariffs on US goods.\n\nIndia will be a key strategic trade partner of the United States in the coming years. \n\nApple has already shifted 50% of their iPhone manufacturing to India and growing every year. https://t.co/4oz8BwNgdJ",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 1,
+    "likeCount": 2,
+    "quoteCount": 1,
+    "viewCount": 269,
+    "createdAt": "Tue May 06 16:57:16 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": true,
+    "inReplyToId": "1919791863151698014",
+    "conversationId": "1919048912381395358",
+    "inReplyToUserId": "44628092",
+    "inReplyToUsername": "DeepBlueCrypto",
+    "author": {
+      "type": "user",
+      "userName": "DeepBlueCrypto",
+      "url": "https://x.com/DeepBlueCrypto",
+      "twitterUrl": "https://twitter.com/DeepBlueCrypto",
+      "id": "44628092",
+      "name": "🌋🌋 Deep₿lueCrypto 🌋🌋",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1362521028858060800/dowR1V_p_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/44628092/1591852182",
+      "description": "",
+      "location": "Satoshi Heights",
+      "followers": 43596,
+      "following": 569,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Thu Jun 04 14:32:20 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 59186,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 81014,
+      "statusesCount": 147695,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1919868535322313049"
+      ],
+      "profile_bio": {
+        "description": "Truth, Liberty, Freedom, Rights, Memes, Humor, Peace matters more than ever in the world now. CBDCs are evil. Bitcoin is money. Blockchain & Crypto enthusiast.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/4oz8BwNgdJ",
+          "expanded_url": "https://twitter.com/DeepBlueCrypto/status/1919798629339984296/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919798577527668736",
+          "indices": [
+            254,
+            277
+          ],
+          "media_key": "13_1919798577527668736",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqkfqJ91kAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqR+on3WQAAAAA==",
+              "media_key": "13_1919798577527668736"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1919798577527668736/img/42S54vo1DF8K7_Se.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4oz8BwNgdJ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21831,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1919798577527668736/pl/C1CGmRQ6vUFdD1Rl.m3u8?tag=21"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919798577527668736/vid/avc1/480x270/pd5J10hVAXzBP4yS.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919798577527668736/vid/avc1/640x360/RrnQAKPCI4efDSec.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919798577527668736/vid/avc1/1280x720/Rd464zVtbutjm1xh.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919798577527668736/vid/avc1/1920x1080/QE8AyAo6fDD_SVYp.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919885832183255265",
+    "url": "https://x.com/Agn0_/status/1919885832183255265",
+    "twitterUrl": "https://twitter.com/Agn0_/status/1919885832183255265",
+    "text": "With millions in India embracing crypto, the search for the next gem is on. @1DollarSol offers a clear target: $1. Join the #1dollar revolution today! https://t.co/yYp0vdsPFS",
+    "source": "Twitter for iPhone",
+    "retweetCount": 7,
+    "replyCount": 1,
+    "likeCount": 25,
+    "quoteCount": 0,
+    "viewCount": 351,
+    "createdAt": "Tue May 06 22:43:46 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 2,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919885832183255265",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Agn0_",
+      "url": "https://x.com/Agn0_",
+      "twitterUrl": "https://twitter.com/Agn0_",
+      "id": "1864324984320966656",
+      "name": "Agn0 💵",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1908880131151532032/s0wMtCLE_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1864324984320966656/1743947463",
+      "description": "",
+      "location": "",
+      "followers": 748,
+      "following": 711,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Dec 04 15:05:48 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 5617,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 935,
+      "statusesCount": 1593,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "All things crypto, #1Dollar enthusiast",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  19,
+                  27
+                ],
+                "text": "1Dollar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1dollarsol.com",
+                "expanded_url": "https://1dollarsol.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zI1ASY6FyH"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yYp0vdsPFS",
+          "expanded_url": "https://twitter.com/Agn0_/status/1919885832183255265/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1919885827292733440",
+          "indices": [
+            151,
+            174
+          ],
+          "media_key": "3_1919885827292733440",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqkzfzpFyAACgACGqTN/gyWkOEAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqTN/OkXIAAKAAIapM3+DJaQ4QAA",
+              "media_key": "3_1919885827292733440"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqTN_OkXIAAa-tr.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 502
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 252,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 1024,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yYp0vdsPFS"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            124,
+            132
+          ],
+          "text": "1dollar"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1352351985811542020",
+          "indices": [
+            76,
+            87
+          ],
+          "name": "$1",
+          "screen_name": "1DollarSol"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918308479304978613",
+    "url": "https://x.com/darla_1994/status/1918308479304978613",
+    "twitterUrl": "https://twitter.com/darla_1994/status/1918308479304978613",
+    "text": "“We need… just a few handful of real people &amp; we can move mountains” \n\n#ShaykhNurjanMirahmadi tiktok twitch russia putin ukraine nato wwiii turkey iran india japan crypto bitcoin nft elon musk ai chat gpt https://t.co/50IagTn5d7",
+    "source": "Twitter for iPhone",
+    "retweetCount": 4,
+    "replyCount": 0,
+    "likeCount": 7,
+    "quoteCount": 0,
+    "viewCount": 255,
+    "createdAt": "Fri May 02 14:15:56 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918308479304978613",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "darla_1994",
+      "url": "https://x.com/darla_1994",
+      "twitterUrl": "https://twitter.com/darla_1994",
+      "id": "2156204448",
+      "name": "Darla S",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1612534419750879232/8ia_7ygW_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2156204448/1663481784",
+      "description": "",
+      "location": "",
+      "followers": 137,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Sat Oct 26 05:45:51 +0000 2013",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 881,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 4112,
+      "statusesCount": 4548,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1870908976302260338"
+      ],
+      "profile_bio": {
+        "description": "✨https://t.co/odHrjtg0qh✨https://t.co/zwiz1fFgMY ✨https://t.co/WMfsIi7YOu✨https://t.co/ATlLEKopuK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "muslimcharity.com",
+                "expanded_url": "http://muslimcharity.com",
+                "indices": [
+                  1,
+                  24
+                ],
+                "url": "https://t.co/odHrjtg0qh"
+              },
+              {
+                "display_url": "smcmerch.com",
+                "expanded_url": "http://smcmerch.com",
+                "indices": [
+                  25,
+                  48
+                ],
+                "url": "https://t.co/zwiz1fFgMY"
+              },
+              {
+                "display_url": "muhammadanway.com",
+                "expanded_url": "http://muhammadanway.com",
+                "indices": [
+                  50,
+                  73
+                ],
+                "url": "https://t.co/WMfsIi7YOu"
+              },
+              {
+                "display_url": "rumiroseteas.ca",
+                "expanded_url": "http://rumiroseteas.ca",
+                "indices": [
+                  74,
+                  97
+                ],
+                "url": "https://t.co/ATlLEKopuK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/nurmir",
+                "expanded_url": "http://youtube.com/user/nurmir",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Ifsx8oXoSV"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/50IagTn5d7",
+          "expanded_url": "https://twitter.com/darla_1994/status/1918308479304978613/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918308447440822273",
+          "indices": [
+            209,
+            232
+          ],
+          "media_key": "7_1918308447440822273",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqfM16LV2ABCgACGp8zZfaX0LUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGp8zXotXYAEKAAIanzNl9pfQtQAA",
+              "media_key": "7_1918308447440822273"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1918308447440822273/pu/img/ylMNPMGJAb4HP4kh.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1024,
+            "width": 576
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "w": 576
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/50IagTn5d7",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 28266,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1918308447440822273/pu/pl/bUsGM1BIFVMCfWAE.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918308447440822273/pu/vid/avc1/320x568/cidKLr_5K7YCVfb7.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918308447440822273/pu/vid/avc1/480x852/2qG1oSST7Yr_LUQe.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918308447440822273/pu/vid/avc1/576x1024/zUAfbtgBlWmHLvWy.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            75,
+            97
+          ],
+          "text": "ShaykhNurjanMirahmadi"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919660145065296120",
+    "url": "https://x.com/darla_1994/status/1919660145065296120",
+    "twitterUrl": "https://twitter.com/darla_1994/status/1919660145065296120",
+    "text": "“… that ل (lam) draws us into the presence of the ا (alif)… that’s the Ocean of Power…” \n\n#ShaykhNurjanMirahmadi tiktok twitch russia putin ukraine nato wwiii turkey india japan crypto bitcoin nft elon musk ai chat gpt https://t.co/Yn8zM4hPra",
+    "source": "Twitter for iPhone",
+    "retweetCount": 3,
+    "replyCount": 0,
+    "likeCount": 8,
+    "quoteCount": 0,
+    "viewCount": 196,
+    "createdAt": "Tue May 06 07:46:58 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 2,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919660145065296120",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "darla_1994",
+      "url": "https://x.com/darla_1994",
+      "twitterUrl": "https://twitter.com/darla_1994",
+      "id": "2156204448",
+      "name": "Darla S",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1612534419750879232/8ia_7ygW_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2156204448/1663481784",
+      "description": "",
+      "location": "",
+      "followers": 137,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Sat Oct 26 05:45:51 +0000 2013",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 881,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 4112,
+      "statusesCount": 4548,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1870908976302260338"
+      ],
+      "profile_bio": {
+        "description": "✨https://t.co/odHrjtg0qh✨https://t.co/zwiz1fFgMY ✨https://t.co/WMfsIi7YOu✨https://t.co/ATlLEKopuK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "muslimcharity.com",
+                "expanded_url": "http://muslimcharity.com",
+                "indices": [
+                  1,
+                  24
+                ],
+                "url": "https://t.co/odHrjtg0qh"
+              },
+              {
+                "display_url": "smcmerch.com",
+                "expanded_url": "http://smcmerch.com",
+                "indices": [
+                  25,
+                  48
+                ],
+                "url": "https://t.co/zwiz1fFgMY"
+              },
+              {
+                "display_url": "muhammadanway.com",
+                "expanded_url": "http://muhammadanway.com",
+                "indices": [
+                  50,
+                  73
+                ],
+                "url": "https://t.co/WMfsIi7YOu"
+              },
+              {
+                "display_url": "rumiroseteas.ca",
+                "expanded_url": "http://rumiroseteas.ca",
+                "indices": [
+                  74,
+                  97
+                ],
+                "url": "https://t.co/ATlLEKopuK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/nurmir",
+                "expanded_url": "http://youtube.com/user/nurmir",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Ifsx8oXoSV"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/Yn8zM4hPra",
+          "expanded_url": "https://twitter.com/darla_1994/status/1919660145065296120/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919660088085696512",
+          "indices": [
+            219,
+            242
+          ],
+          "media_key": "7_1919660088085696512",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqkAK3n19AACgACGqQAuywXgPgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGqQArefX0AAKAAIapAC7LBeA+AAA",
+              "media_key": "7_1919660088085696512"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1919660088085696512/pu/img/7UAJd9n-1PwSt2PH.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1024,
+            "width": 576
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "w": 576
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Yn8zM4hPra",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 69733,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1919660088085696512/pu/pl/2OI7yZce6iM09KnZ.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919660088085696512/pu/vid/avc1/320x568/OYjzhmP6w5A0kCNe.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919660088085696512/pu/vid/avc1/480x852/hfQXlPZ9hqac8qW9.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919660088085696512/pu/vid/avc1/576x1024/yfsBag1IEQgeYLdN.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            90,
+            112
+          ],
+          "text": "ShaykhNurjanMirahmadi"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920054882649677912",
+    "url": "https://x.com/OssyCrypto/status/1920054882649677912",
+    "twitterUrl": "https://twitter.com/OssyCrypto/status/1920054882649677912",
+    "text": "#India you are doing wrong, #STOP https://t.co/XV5XHyPSaU",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 102,
+    "createdAt": "Wed May 07 09:55:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920054882649677912",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "OssyCrypto",
+      "url": "https://x.com/OssyCrypto",
+      "twitterUrl": "https://twitter.com/OssyCrypto",
+      "id": "1846624018033790979",
+      "name": "Ossy 🪙",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1907924008852475904/bRjTnQja_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1846624018033790979/1746640591",
+      "description": "",
+      "location": "Nederland ",
+      "followers": 3168,
+      "following": 932,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Oct 16 18:47:59 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 50322,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2417,
+      "statusesCount": 18175,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1920063647692333231"
+      ],
+      "profile_bio": {
+        "description": "International Network, #Investor #Holder ON-Chain Analyst #Gold #Silver #BTC #ETH #SEI  #SUI 💧 #WLFI 🇳🇱🇹🇷 NOT Financial Advice⚠️\nRWA #PLUME🪶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  23,
+                  32
+                ],
+                "text": "Investor"
+              },
+              {
+                "indices": [
+                  33,
+                  40
+                ],
+                "text": "Holder"
+              },
+              {
+                "indices": [
+                  58,
+                  63
+                ],
+                "text": "Gold"
+              },
+              {
+                "indices": [
+                  64,
+                  71
+                ],
+                "text": "Silver"
+              },
+              {
+                "indices": [
+                  72,
+                  76
+                ],
+                "text": "BTC"
+              },
+              {
+                "indices": [
+                  77,
+                  81
+                ],
+                "text": "ETH"
+              },
+              {
+                "indices": [
+                  82,
+                  86
+                ],
+                "text": "SEI"
+              },
+              {
+                "indices": [
+                  88,
+                  92
+                ],
+                "text": "SUI"
+              },
+              {
+                "indices": [
+                  95,
+                  100
+                ],
+                "text": "WLFI"
+              },
+              {
+                "indices": [
+                  133,
+                  139
+                ],
+                "text": "PLUME"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/XV5XHyPSaU",
+          "expanded_url": "https://twitter.com/OssyCrypto/status/1920054882649677912/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1920054186185555968",
+          "indices": [
+            34,
+            57
+          ],
+          "media_key": "3_1920054186185555968",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqlZxwFF4AACgACGqVnvi2WoFgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqVnHAUXgAAKAAIapWe+LZagWAAA",
+              "media_key": "3_1920054186185555968"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqVnHAUXgAAdMpT.png",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 346,
+                "w": 618,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 355,
+                "w": 355,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 355,
+                "w": 311,
+                "x": 14,
+                "y": 0
+              },
+              {
+                "h": 355,
+                "w": 178,
+                "x": 80,
+                "y": 0
+              },
+              {
+                "h": 355,
+                "w": 618,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 355,
+            "width": 618
+          },
+          "sizes": {
+            "large": {
+              "h": 355,
+              "w": 618
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XV5XHyPSaU"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "India"
+        },
+        {
+          "indices": [
+            28,
+            33
+          ],
+          "text": "STOP"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919784464059613576",
+    "url": "https://x.com/p90740/status/1919784464059613576",
+    "twitterUrl": "https://twitter.com/p90740/status/1919784464059613576",
+    "text": "Tomorrow, across India, we will participate in a nationwide blackout mock drill to enhance war preparedness. Turn off your lights  (excluding hospitals) and be part of this important initiative to ensure a safer, more resilient future.\n🇮🇳🇮🇳🇮🇳🤝🤝🤝💪💪\n#mockdrills https://t.co/K5hdcPa4Ad",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 0,
+    "likeCount": 5,
+    "quoteCount": 0,
+    "viewCount": 3369,
+    "createdAt": "Tue May 06 16:00:58 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919784464059613576",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "p90740",
+      "url": "https://x.com/p90740",
+      "twitterUrl": "https://twitter.com/p90740",
+      "id": "1697972676864655360",
+      "name": "crypto talk",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1832061865641308161/qo5FJwTU_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "  Bharat ",
+      "followers": 362,
+      "following": 517,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Sep 02 14:00:31 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 2094,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 198,
+      "statusesCount": 2341,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "nothing special available",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/K5hdcPa4Ad",
+          "expanded_url": "https://twitter.com/p90740/status/1919784464059613576/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919784399597666304",
+          "indices": [
+            260,
+            283
+          ],
+          "media_key": "7_1919784399597666304",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqkcb1vWwAACgACGqRxzHGWQYgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGqRxvW9bAAAKAAIapHHMcZZBiAAA",
+              "media_key": "7_1919784399597666304"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1919784399597666304/pu/img/i7tD8v1pQ7niFAxa.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 360,
+            "width": 640
+          },
+          "sizes": {
+            "large": {
+              "h": 360,
+              "w": 640
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/K5hdcPa4Ad",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 104675,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1919784399597666304/pu/pl/4GnM3GPQP03mVsnZ.m3u8?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919784399597666304/pu/vid/avc1/480x270/HdUWUyk6pgBx_-2a.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919784399597666304/pu/vid/avc1/640x360/6s80qkyjq-3Lcd_C.mp4?tag=12"
+              }
+            ]
+          }
+        },
+        {
+          "display_url": "pic.twitter.com/K5hdcPa4Ad",
+          "expanded_url": "https://twitter.com/p90740/status/1919784464059613576/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 95,
+                  "w": 95,
+                  "x": 820,
+                  "y": 834
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 193,
+                  "y": 960
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 95,
+                  "w": 95,
+                  "x": 820,
+                  "y": 834
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 193,
+                  "y": 960
+                }
+              ]
+            }
+          },
+          "id_str": "1919784402638536704",
+          "indices": [
+            260,
+            283
+          ],
+          "media_key": "3_1919784402638536704",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqkcb4kmwAACgACGqRxzHGWQYgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqRxviSbAAAKAAIapHHMcZZBiAAA",
+              "media_key": "3_1919784402638536704"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqRxviSbAAA09X4.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 874
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 399
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 248
+              },
+              {
+                "h": 1479,
+                "w": 740,
+                "x": 170,
+                "y": 0
+              },
+              {
+                "h": 1479,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1479,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1479,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/K5hdcPa4Ad"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            248,
+            259
+          ],
+          "text": "mockdrills"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918495028831268871",
+    "url": "https://x.com/CryptoIndiaMag/status/1918495028831268871",
+    "twitterUrl": "https://twitter.com/CryptoIndiaMag/status/1918495028831268871",
+    "text": "Senator Cynthia Lummis has championed the BITCOIN Act, calling Bitcoin the only answer to the U.S.'s $36 trillion debt and emphasizing former President Trump's backing of her Strategic Bitcoin Reserve initiative. https://t.co/WNZpGQFrWd",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 74,
+    "createdAt": "Sat May 03 02:37:13 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918495028831268871",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "CryptoIndiaMag",
+      "url": "https://x.com/CryptoIndiaMag",
+      "twitterUrl": "https://twitter.com/CryptoIndiaMag",
+      "id": "1694702761731108866",
+      "name": "Crypto India Magazine | Web3 News",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1837549252446507009/JRtO-a_R_normal.png",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1694702761731108866/1726941569",
+      "description": "",
+      "location": "Bangalore",
+      "followers": 505,
+      "following": 452,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Thu Aug 24 13:27:20 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 3403,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 808,
+      "statusesCount": 3317,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Mainstreaming the #Web3 revolution | Visit: https://t.co/7LVDeh7Sov",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  18,
+                  23
+                ],
+                "text": "Web3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cryptoindiamagazine.com",
+                "expanded_url": "http://www.cryptoindiamagazine.com",
+                "indices": [
+                  44,
+                  67
+                ],
+                "url": "https://t.co/7LVDeh7Sov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/CryptoIndiaMag",
+                "expanded_url": "https://bio.site/CryptoIndiaMag",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/818NcHEJQX"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/WNZpGQFrWd",
+          "expanded_url": "https://twitter.com/CryptoIndiaMag/status/1918495028831268871/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918494965371461632",
+          "indices": [
+            213,
+            236
+          ],
+          "media_key": "7_1918494965371461632",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqf3QGiV2AACgACGp/dEGjXMAcAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGp/dAaJXYAAKAAIan90QaNcwBwAA",
+              "media_key": "7_1918494965371461632"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1918494965371461632/pu/img/ixo9D4yi48DgKS_B.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 540,
+            "width": 960
+          },
+          "sizes": {
+            "large": {
+              "h": 540,
+              "w": 960
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/WNZpGQFrWd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68373,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1918494965371461632/pu/pl/GQg_ddqLxYZeUIfO.m3u8?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918494965371461632/pu/vid/avc1/480x270/WEuvifa7M1h-t7A7.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918494965371461632/pu/vid/avc1/640x360/uUhpdxu5SiOo8K7X.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918494965371461632/pu/vid/avc1/960x540/m_SJRRhmWVa2Qxe7.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919363080577855595",
+    "url": "https://x.com/icr_indiacrypto/status/1919363080577855595",
+    "twitterUrl": "https://twitter.com/icr_indiacrypto/status/1919363080577855595",
+    "text": "Here are the top 10 DEXs ranked by their 7-day volume 👇 https://t.co/5brSVd6tNG",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 6,
+    "quoteCount": 0,
+    "viewCount": 65,
+    "createdAt": "Mon May 05 12:06:33 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919363080577855595",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "icr_indiacrypto",
+      "url": "https://x.com/icr_indiacrypto",
+      "twitterUrl": "https://twitter.com/icr_indiacrypto",
+      "id": "1801917211784695808",
+      "name": "India Crypto Research",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1874320059956682752/wppd7uO__normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1801917211784695808/1720762399",
+      "description": "",
+      "location": "Between Blockchains and You",
+      "followers": 407,
+      "following": 89,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Jun 15 09:58:56 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 4282,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 320,
+      "statusesCount": 2242,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1919590618432483823"
+      ],
+      "profile_bio": {
+        "description": "Unbiased research 📊 Blockchain/Web3 insights 🔗 Alpha updates 🗞️ \nMaking you crypto wise, one tweet at a time.\nTweets are educational & not investment advice.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "indiacryptoresearch.co.in",
+                "expanded_url": "http://indiacryptoresearch.co.in",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OooD7HRcyi"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/5brSVd6tNG",
+          "expanded_url": "https://twitter.com/icr_indiacrypto/status/1919363080577855595/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 1045,
+                  "y": 621
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 1045,
+                  "y": 621
+                }
+              ]
+            }
+          },
+          "id_str": "1919362106098438144",
+          "indices": [
+            56,
+            79
+          ],
+          "media_key": "3_1919362106098438144",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqi8aqRV9AACgACGqLyjXTXsGsAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqLxqpFX0AAKAAIaovKNdNewawAA",
+              "media_key": "3_1919362106098438144"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqLxqpFX0AAAv8-.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 992,
+                "w": 1772,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 997,
+                "w": 997,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 997,
+                "w": 875,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 997,
+                "w": 499,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 997,
+                "w": 1772,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 997,
+            "width": 1772
+          },
+          "sizes": {
+            "large": {
+              "h": 997,
+              "w": 1772
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5brSVd6tNG"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920158578104807876",
+    "url": "https://x.com/Manojve1228/status/1920158578104807876",
+    "twitterUrl": "https://twitter.com/Manojve1228/status/1920158578104807876",
+    "text": "🚨 India 🇮🇳 targeted terrorists but \n\nPakistan 🇵🇰 targeted Common Civilians Places, Schools and Gurdwaras in Poonch, Jammu, India. \n\nPakistan 🇵🇰 is a terrorist state.\n#PakistanBehindPahalgam \n#IndiaPakistanWar \n\n #OperationSindhoor #operation_sindoor https://t.co/5U0AwnXLV1",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 218,
+    "createdAt": "Wed May 07 16:47:34 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920158578104807876",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Manojve1228",
+      "url": "https://x.com/Manojve1228",
+      "twitterUrl": "https://twitter.com/Manojve1228",
+      "id": "1885577372331646976",
+      "name": "Candle Crypto",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1908051837397188608/eL5hQMpj_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1885577372331646976/1746595921",
+      "description": "",
+      "location": "",
+      "followers": 1644,
+      "following": 1767,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Feb 01 06:34:21 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1579,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 227,
+      "statusesCount": 1464,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "crypto believer",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/5U0AwnXLV1",
+          "expanded_url": "https://twitter.com/Manojve1228/status/1920158578104807876/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1920158426552020992",
+          "indices": [
+            250,
+            273
+          ],
+          "media_key": "13_1920158426552020992",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqlxepfGzAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqXF6l8bMAAAAA==",
+              "media_key": "13_1920158426552020992"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1920158426552020992/img/Yp9xvgWXAhG3PAEG.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/5U0AwnXLV1",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 25233,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1920158426552020992/pl/Ub6e6kc_AGLa7Wgd.m3u8?tag=21"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920158426552020992/vid/avc1/320x568/RkdcYhGwDZ5mvZwo.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920158426552020992/vid/avc1/480x852/LWciWgvI8dUN-5AT.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920158426552020992/vid/avc1/720x1280/yjGJQqFl5ff2Mjpz.mp4?tag=21"
+              }
+            ]
+          }
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/5U0AwnXLV1",
+          "expanded_url": "https://twitter.com/Manojve1228/status/1920158578104807876/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1920158426518466564",
+          "indices": [
+            250,
+            273
+          ],
+          "media_key": "3_1920158426518466564",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqlxepdGzAECgACGqXGDahbMcQAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqXF6l0bMAQKAAIapcYNqFsxxAAA",
+              "media_key": "3_1920158426518466564"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqXF6l0bMAQxSc7.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 378,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 675,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 770,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 900,
+                "w": 450,
+                "x": 225,
+                "y": 0
+              },
+              {
+                "h": 900,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 900,
+            "width": 675
+          },
+          "sizes": {
+            "large": {
+              "h": 900,
+              "w": 675
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5U0AwnXLV1"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            166,
+            189
+          ],
+          "text": "PakistanBehindPahalgam"
+        },
+        {
+          "indices": [
+            191,
+            208
+          ],
+          "text": "IndiaPakistanWar"
+        },
+        {
+          "indices": [
+            212,
+            230
+          ],
+          "text": "OperationSindhoor"
+        },
+        {
+          "indices": [
+            231,
+            249
+          ],
+          "text": "operation_sindoor"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920151775228871019",
+    "url": "https://x.com/cryptopeakx/status/1920151775228871019",
+    "twitterUrl": "https://twitter.com/cryptopeakx/status/1920151775228871019",
+    "text": "🌍 A Call for Peace and Progress 🌍\n\nWar divides. Blockchain unites. Peace empowers.\n\nTo the leaders and people of India 🇮🇳 and Pakistan 🇵🇰,\n\nAt this critical juncture in history, we urge both nations to step back from the edge of conflict and take a bold step toward dialogue, unity, and peace.\n\nThe 21st century offers boundless opportunities—an era defined not by war, but by innovation, collaboration, and shared prosperity. Why fight battles that drain lives and resources when you can lead a global movement that empowers billions?\n\nSouth Asia stands at the crossroads of possibility. With your brilliant minds, vibrant youth, and rapidly growing digital economies, India and Pakistan have the potential to become global leaders—not just in technology, but in the revolution of decentralized finance (#DeFi).\n\nImagine a future where your rivalry fuels innovation, not hostility—where both nations race to become the world’s leading crypto hubs. Platforms like $WLFI can become the foundation of this transformation—unlocking economic freedom, amplifying voices, and connecting your citizens to the global digital economy.\n\nWe call upon both nations to choose diplomacy over destruction. To invest in code, not conflict. To build a future where your children compete to innovate—not to survive.\n\nLet this century be remembered not for borders drawn in blood, but for bridges built in blockchain.\n\nWith hope and solidarity,\n\n@cryptopeakx \n\n#IndiaPakistanWar #PakistanArmy #IndiaPakistan #IndianAirForce #Pakistan #India #WLFI",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 6,
+    "quoteCount": 0,
+    "viewCount": 268,
+    "createdAt": "Wed May 07 16:20:32 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920151775228871019",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "cryptopeakx",
+      "url": "https://x.com/cryptopeakx",
+      "twitterUrl": "https://twitter.com/cryptopeakx",
+      "id": "1901991362645626880",
+      "name": "Crypto Peak",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913392807794069504/tCJ1Z0Pu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1901991362645626880/1745883620",
+      "description": "",
+      "location": "",
+      "followers": 3399,
+      "following": 921,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Mar 18 13:37:46 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1978,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 706,
+      "statusesCount": 2036,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1919698176195625225"
+      ],
+      "profile_bio": {
+        "description": "Tweets on WLFI and Crypto. Passionate about innovation, growth, and purposeful living. My tweets are not financial advice, these are my opinions.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/vAwnXaeSLE",
+          "expanded_url": "https://twitter.com/cryptopeakx/status/1920151775228871019/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1920151768459325441",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "3_1920151768459325441",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqlv9wp2zABCgACGqW/3b1aQWsAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqW/3CnbMAEKAAIapb/dvVpBawAA",
+              "media_key": "3_1920151768459325441"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqW_3CnbMAE4_as.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 149
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 898,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 512,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1024,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "w": 1024
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vAwnXaeSLE"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            805,
+            810
+          ],
+          "text": "DeFi"
+        },
+        {
+          "indices": [
+            1442,
+            1459
+          ],
+          "text": "IndiaPakistanWar"
+        },
+        {
+          "indices": [
+            1460,
+            1473
+          ],
+          "text": "PakistanArmy"
+        },
+        {
+          "indices": [
+            1474,
+            1488
+          ],
+          "text": "IndiaPakistan"
+        },
+        {
+          "indices": [
+            1489,
+            1504
+          ],
+          "text": "IndianAirForce"
+        },
+        {
+          "indices": [
+            1505,
+            1514
+          ],
+          "text": "Pakistan"
+        },
+        {
+          "indices": [
+            1515,
+            1521
+          ],
+          "text": "India"
+        },
+        {
+          "indices": [
+            1522,
+            1527
+          ],
+          "text": "WLFI"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            964,
+            969
+          ],
+          "text": "WLFI"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1901991362645626880",
+          "indices": [
+            1427,
+            1439
+          ],
+          "name": "Crypto Peak",
+          "screen_name": "cryptopeakx"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919694838720528427",
+    "url": "https://x.com/anujprajapati11/status/1919694838720528427",
+    "twitterUrl": "https://twitter.com/anujprajapati11/status/1919694838720528427",
+    "text": "You can’t Ignore the Crypto Market \n\nSee, What Donald Trump said about Crypto Market and its Importance 🤔\n\nIndia Should also be Crypto Friendly Nation 🤔\n\n#CryptoRecovery #cryptotrading #CryptoFacts #DonaldTrump #NarendraModi #PMModi #elonmusk #bitcoin #Ethereum #Dogecoin #viralvideo",
+    "source": "Twitter for iPhone",
+    "retweetCount": 9,
+    "replyCount": 6,
+    "likeCount": 13,
+    "quoteCount": 0,
+    "viewCount": 749,
+    "createdAt": "Tue May 06 10:04:50 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919694838720528427",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "anujprajapati11",
+      "url": "https://x.com/anujprajapati11",
+      "twitterUrl": "https://twitter.com/anujprajapati11",
+      "id": "814968864",
+      "name": "Anuj Prajapati",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1426910366416572424/AxZHm7t8_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/814968864/1715884135",
+      "description": "",
+      "location": "Bengaluru ",
+      "followers": 222140,
+      "following": 113985,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Mon Sep 10 10:52:52 +0000 2012",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 21961,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 8764,
+      "statusesCount": 31838,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Stock Market Enthusiast, YouTuber, Stock investor, Movie Lover #Foodie #YouTuber",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  63,
+                  70
+                ],
+                "text": "Foodie"
+              },
+              {
+                "indices": [
+                  71,
+                  80
+                ],
+                "text": "YouTuber"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/7q1ez2zJeS",
+          "expanded_url": "https://twitter.com/anujprajapati11/status/1919694838720528427/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919694780386443265",
+          "indices": [
+            273,
+            296
+          ],
+          "media_key": "13_1919694780386443265",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqkIDtWGwABAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqQgO1YbAAEAAA==",
+              "media_key": "13_1919694780386443265"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1919694780386443265/img/ap0swe92sVwrFenx.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 480,
+            "width": 888
+          },
+          "sizes": {
+            "large": {
+              "h": 480,
+              "w": 888
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7q1ez2zJeS",
+          "video_info": {
+            "aspect_ratio": [
+              37,
+              20
+            ],
+            "duration_millis": 36943,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1919694780386443265/pl/Fgqz2kBL3-YgJchA.m3u8?tag=16"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919694780386443265/vid/avc1/498x270/_DMifVaRSLxWMSOi.mp4?tag=16"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919694780386443265/vid/avc1/666x360/yGcv-iJAJpPOpbMG.mp4?tag=16"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919694780386443265/vid/avc1/888x480/GZLZTO6jhA1OBlMj.mp4?tag=16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            154,
+            169
+          ],
+          "text": "CryptoRecovery"
+        },
+        {
+          "indices": [
+            170,
+            184
+          ],
+          "text": "cryptotrading"
+        },
+        {
+          "indices": [
+            185,
+            197
+          ],
+          "text": "CryptoFacts"
+        },
+        {
+          "indices": [
+            198,
+            210
+          ],
+          "text": "DonaldTrump"
+        },
+        {
+          "indices": [
+            211,
+            224
+          ],
+          "text": "NarendraModi"
+        },
+        {
+          "indices": [
+            225,
+            232
+          ],
+          "text": "PMModi"
+        },
+        {
+          "indices": [
+            233,
+            242
+          ],
+          "text": "elonmusk"
+        },
+        {
+          "indices": [
+            243,
+            251
+          ],
+          "text": "bitcoin"
+        },
+        {
+          "indices": [
+            252,
+            261
+          ],
+          "text": "Ethereum"
+        },
+        {
+          "indices": [
+            262,
+            271
+          ],
+          "text": "Dogecoin"
+        },
+        {
+          "indices": [
+            272,
+            283
+          ],
+          "text": "viralvideo"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918720345298678213",
+    "url": "https://x.com/Veektoria_uz/status/1918720345298678213",
+    "twitterUrl": "https://twitter.com/Veektoria_uz/status/1918720345298678213",
+    "text": "2018 was brutal for crypto!\n\nBitcoin had just hit an all-time high of $19,000 in January, but by December, it was crashing between $3,000–$4,000.\n\nAnd to make things worse for India?\nRBI banned banks from dealing with crypto.\n#Thread #AscendexWarriors #BTC https://t.co/REKDsK0CaK",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 2,
+    "likeCount": 5,
+    "quoteCount": 0,
+    "viewCount": 118,
+    "createdAt": "Sat May 03 17:32:33 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918720345298678213",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Veektoria_uz",
+      "url": "https://x.com/Veektoria_uz",
+      "twitterUrl": "https://twitter.com/Veektoria_uz",
+      "id": "1813157423718248449",
+      "name": "VICTORIA",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1903925317749661696/MAOeCDKt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1813157423718248449/1742766184",
+      "description": "",
+      "location": "Nigeria",
+      "followers": 210,
+      "following": 162,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Jul 16 10:23:52 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 11259,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 213,
+      "statusesCount": 4517,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1914556276664631634"
+      ],
+      "profile_bio": {
+        "description": "Web3 Content Writer | Storyteller ~ Crafting compelling stories that connect & inspire.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/REKDsK0CaK",
+          "expanded_url": "https://twitter.com/Veektoria_uz/status/1918720345298678213/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Wizz",
+                  "screen_name": "WizzHQ",
+                  "type": "user",
+                  "user_id": "1799437972527583232"
+                },
+                {
+                  "name": "AscendEX",
+                  "screen_name": "AscendEX_",
+                  "type": "user",
+                  "user_id": "1007389104701673473"
+                }
+              ]
+            },
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1918720320191488000",
+          "indices": [
+            257,
+            280
+          ],
+          "media_key": "3_1918720320191488000",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqgqfckVmAACgACGqCp/PzXscUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqCp9yRWYAAKAAIaoKn8/NexxQAA",
+              "media_key": "3_1918720320191488000"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqCp9yRWYAAm2X2.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 538,
+                "w": 960,
+                "x": 0,
+                "y": 403
+              },
+              {
+                "h": 960,
+                "w": 960,
+                "x": 0,
+                "y": 192
+              },
+              {
+                "h": 1094,
+                "w": 960,
+                "x": 0,
+                "y": 125
+              },
+              {
+                "h": 1280,
+                "w": 640,
+                "x": 224,
+                "y": 0
+              },
+              {
+                "h": 1280,
+                "w": 960,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1280,
+            "width": 960
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 960
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/REKDsK0CaK"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            226,
+            233
+          ],
+          "text": "Thread"
+        },
+        {
+          "indices": [
+            234,
+            251
+          ],
+          "text": "AscendexWarriors"
+        },
+        {
+          "indices": [
+            252,
+            256
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920070463595724894",
+    "url": "https://x.com/CryptonomicsUSA/status/1920070463595724894",
+    "twitterUrl": "https://twitter.com/CryptonomicsUSA/status/1920070463595724894",
+    "text": "BREAKING: India prepares for Pakistan Retaliation by running in circles. https://t.co/ZRXF3x4maE",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 4,
+    "likeCount": 8,
+    "quoteCount": 1,
+    "viewCount": 6338,
+    "createdAt": "Wed May 07 10:57:26 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 3,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920070463595724894",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "CryptonomicsUSA",
+      "url": "https://x.com/CryptonomicsUSA",
+      "twitterUrl": "https://twitter.com/CryptonomicsUSA",
+      "id": "1748484872203636738",
+      "name": "Crypto News Network",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1750210265789161475/4RUkAfyO_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1748484872203636738/1706117632",
+      "description": "",
+      "location": "",
+      "followers": 223,
+      "following": 19,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Fri Jan 19 23:17:41 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 116,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 135,
+      "statusesCount": 282,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1791183140137935039"
+      ],
+      "profile_bio": {
+        "description": "We just report the news.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SpecialNewsUnit",
+                "expanded_url": "https://t.me/SpecialNewsUnit",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/vCfZSRerHU"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/ZRXF3x4maE",
+          "expanded_url": "https://twitter.com/CryptonomicsUSA/status/1920070463595724894/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1920070393827610627",
+          "indices": [
+            73,
+            96
+          ],
+          "media_key": "13_1920070393827610627",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqlddmn1tADAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqV12afW0AMAAA==",
+              "media_key": "13_1920070393827610627"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1920070393827610627/img/6exAUC8XJMq3CaCw.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 720,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "w": 1280
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ZRXF3x4maE",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 45925,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1920070393827610627/pl/bHXUb_KP4udMbhSb.m3u8?tag=16&v=cfc"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920070393827610627/vid/avc1/480x270/l7-W8WZ8EKimOOoq.mp4?tag=16"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920070393827610627/vid/avc1/640x360/r71bhK-jRAgwN7ql.mp4?tag=16"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920070393827610627/vid/avc1/1280x720/R0VqFnYuO3bi5CCA.mp4?tag=16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920292307279958299",
+    "url": "https://x.com/chrome2279/status/1920292307279958299",
+    "twitterUrl": "https://twitter.com/chrome2279/status/1920292307279958299",
+    "text": "🚨 Is Stellar $XLM the New East India Company? 🚨\n\nThey’re not just moving money—they’re wiring up assets globally. Is this digital colonization? 🌐💥 https://t.co/CZ6a1IDZn6",
+    "source": "Twitter for iPhone",
+    "retweetCount": 5,
+    "replyCount": 0,
+    "likeCount": 22,
+    "quoteCount": 0,
+    "viewCount": 564,
+    "createdAt": "Thu May 08 01:38:58 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 4,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920292307279958299",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "chrome2279",
+      "url": "https://x.com/chrome2279",
+      "twitterUrl": "https://twitter.com/chrome2279",
+      "id": "1123028997753929729",
+      "name": "Crypto Chrome",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1911265943910580224/PHs0dQyy_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1123028997753929729/1744494933",
+      "description": "",
+      "location": "Virginia, USA",
+      "followers": 1657,
+      "following": 2085,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Apr 30 00:59:12 +0000 2019",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 44154,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 779,
+      "statusesCount": 19032,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "AI | Crypto | Politics | Stocks | Wrestling | Web3 | XRP | All posts are entertainment purposes only, not financial advice",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chromefamily?…",
+                "expanded_url": "https://youtube.com/@chromefamily?feature=shared",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/cBwoIGIYPO"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CZ6a1IDZn6",
+          "expanded_url": "https://twitter.com/chrome2279/status/1920292307279958299/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1920291966870228992",
+          "indices": [
+            147,
+            170
+          ],
+          "media_key": "13_1920291966870228992",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqmP16mVhAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqY/XqZWEAAAAA==",
+              "media_key": "13_1920291966870228992"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1920291966870228992/img/3cSlge5qI7CfQbKW.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1444,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1444,
+              "w": 1080
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CZ6a1IDZn6",
+          "video_info": {
+            "aspect_ratio": [
+              270,
+              361
+            ],
+            "duration_millis": 110200,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1920291966870228992/pl/ZjW6AMPPmI9XNY7l.m3u8?tag=21"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920291966870228992/vid/avc1/320x426/ZFGhuPD-hpj-tjeQ.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920291966870228992/vid/avc1/480x640/oKSvh5YVK8Q540bf.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920291966870228992/vid/avc1/720x962/KJr85EL6ajFvbLsl.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1920291966870228992/vid/avc1/1080x1444/S_pSUjU-fODhL1xb.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "symbols": [
+        {
+          "indices": [
+            13,
+            17
+          ],
+          "text": "XLM"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919526599331905626",
+    "url": "https://x.com/Agn0_/status/1919526599331905626",
+    "twitterUrl": "https://twitter.com/Agn0_/status/1919526599331905626",
+    "text": "Heard about the high crypto energy in places like the Philippines, Vietnam &amp; India? 🔥 \n\nAdd @1DollarSol to your watchlist. We're channeling that global drive towards one iconic target: $1. #1dollar https://t.co/pGFQqZlsJD",
+    "source": "Twitter for iPhone",
+    "retweetCount": 9,
+    "replyCount": 4,
+    "likeCount": 21,
+    "quoteCount": 0,
+    "viewCount": 409,
+    "createdAt": "Mon May 05 22:56:19 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 3,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919526599331905626",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Agn0_",
+      "url": "https://x.com/Agn0_",
+      "twitterUrl": "https://twitter.com/Agn0_",
+      "id": "1864324984320966656",
+      "name": "Agn0 💵",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1908880131151532032/s0wMtCLE_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1864324984320966656/1743947463",
+      "description": "",
+      "location": "",
+      "followers": 748,
+      "following": 711,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Dec 04 15:05:48 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 5617,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 935,
+      "statusesCount": 1593,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "All things crypto, #1Dollar enthusiast",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  19,
+                  27
+                ],
+                "text": "1Dollar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1dollarsol.com",
+                "expanded_url": "https://1dollarsol.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zI1ASY6FyH"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/pGFQqZlsJD",
+          "expanded_url": "https://twitter.com/Agn0_/status/1919526599331905626/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 376,
+                  "y": 1154
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 376,
+                  "y": 1154
+                }
+              ]
+            }
+          },
+          "id_str": "1919526595456270336",
+          "indices": [
+            202,
+            225
+          ],
+          "media_key": "3_1919526595456270336",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqjh0S7FgAACgACGqOHRaIXgFoAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqOHRLsWAAAKAAIao4dFoheAWgAA",
+              "media_key": "3_1919526595456270336"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqOHRLsWAAABoAk.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 707
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/pGFQqZlsJD"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            193,
+            201
+          ],
+          "text": "1dollar"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1352351985811542020",
+          "indices": [
+            96,
+            107
+          ],
+          "name": "$1",
+          "screen_name": "1DollarSol"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920161211561501014",
+    "url": "https://x.com/JayaTalent/status/1920161211561501014",
+    "twitterUrl": "https://twitter.com/JayaTalent/status/1920161211561501014",
+    "text": "Jaya Talent is #hiring a Growth Initiatives Manager (Crypto/Blockchain) for the client\n\n📍 Location: Remote (India preferred)\n🚀 Ideal candidate: Has experience running #Web3 events, hackathons, or ecosystem programs, with a strong builder-first mindset.\n\nHiring Process:\nPre-screening with Jaya Talent\nInterviews with the client’s Growth & Leadership team\nReference checks\nSelection and offer\n\nKey Responsibilities:\n1. Ecosystem Growth: Organize and execute hackathons (online and offline) that activate developers and foster long-term engagement\n2. Event Leadership: Manage end-to-end involvement in global crypto events—selection, logistics, and on-site coordination\n3. Cross-Functional Collaboration: Support BD with pitch decks and materials, align with Marketing on announcements and communications\n4. Community Engagement: Encourage follow-up building and collaboration with participants and partners\n5. Process Building: Create repeatable systems for ecosystem initiatives and share performance insights to scale impact\n\nYou’re a Great Fit If You:\n-Have experience organizing tech or Web3 community programs\n-Understand what excites developers and early adopters\n-Are operationally strong, detail-oriented, and collaborative\n-Communicate clearly and enjoy working across departments\n-Take initiative, move fast, and love building systems from the ground up\n-Have a genuine interest in the crypto space, DeFi, or decentralized infrastructure\n\nWhy This Role Stands Out:\n-Be at the center of ecosystem growth through high-impact events and programs\n-Shape how the brand shows up in the global Web3 landscape\n-Collaborate with top builders, marketers, and founders\n-Learn fast, grow faster, and make your mark in crypto\n\n📩 DM your CV to https://t.co/FOnbt6X7Az\n\n.\n#jobsearch #opportunities #HiringAlert #Web3 #Crypto #blockchain #openrole",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 59,
+    "createdAt": "Wed May 07 16:58:02 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920161211561501014",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "JayaTalent",
+      "url": "https://x.com/JayaTalent",
+      "twitterUrl": "https://twitter.com/JayaTalent",
+      "id": "1737787615145758720",
+      "name": "Jaya Talent",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1746867628675629056/yxaRoV8t_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1737787615145758720/1705339133",
+      "description": "",
+      "location": "Dubai",
+      "followers": 214,
+      "following": 384,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Thu Dec 21 10:50:35 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 951,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 402,
+      "statusesCount": 750,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1904208434557485253"
+      ],
+      "profile_bio": {
+        "description": "Leadership Hiring for Web3 & Crypto 🦄 Founder and CEO @zhannamanzyk",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  54,
+                  67
+                ],
+                "name": "",
+                "screen_name": "zhannamanzyk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jayatalent",
+                "expanded_url": "https://linktr.ee/jayatalent",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Rvez7MXPF2"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ClG1zJNqjM",
+          "expanded_url": "https://twitter.com/JayaTalent/status/1920161211561501014/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 149,
+                  "w": 149,
+                  "x": 365,
+                  "y": 639
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 149,
+                  "w": 149,
+                  "x": 365,
+                  "y": 639
+                }
+              ]
+            }
+          },
+          "id_str": "1920160879720738817",
+          "indices": [
+            271,
+            294
+          ],
+          "media_key": "3_1920160879720738817",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqlyCWLWzABCgACGqXIcs6bYVYAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqXIJYtbMAEKAAIapchyzpthVgAA",
+              "media_key": "3_1920160879720738817"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqXIJYtbMAEWYkU.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 947,
+                "x": 94,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 540,
+                "x": 297,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ClG1zJNqjM"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "hiring"
+        },
+        {
+          "indices": [
+            167,
+            172
+          ],
+          "text": "Web3"
+        },
+        {
+          "indices": [
+            1766,
+            1776
+          ],
+          "text": "jobsearch"
+        },
+        {
+          "indices": [
+            1777,
+            1791
+          ],
+          "text": "opportunities"
+        },
+        {
+          "indices": [
+            1792,
+            1804
+          ],
+          "text": "HiringAlert"
+        },
+        {
+          "indices": [
+            1805,
+            1810
+          ],
+          "text": "Web3"
+        },
+        {
+          "indices": [
+            1811,
+            1818
+          ],
+          "text": "Crypto"
+        },
+        {
+          "indices": [
+            1819,
+            1830
+          ],
+          "text": "blockchain"
+        },
+        {
+          "indices": [
+            1831,
+            1840
+          ],
+          "text": "openrole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.me/melliby",
+          "expanded_url": "https://t.me/melliby",
+          "indices": [
+            1739,
+            1762
+          ],
+          "url": "https://t.co/FOnbt6X7Az"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  }
+]

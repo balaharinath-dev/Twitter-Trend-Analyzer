@@ -1,0 +1,4372 @@
+[
+  {
+    "type": "tweet",
+    "id": "1918651817623187896",
+    "url": "https://x.com/GraziaIndia/status/1918651817623187896",
+    "twitterUrl": "https://twitter.com/GraziaIndia/status/1918651817623187896",
+    "text": "#GraziaBeauty Sip &amp; Glow: How Detox Water Became The New Beauty Elixir\n\nhttps://t.co/z2Rm0TBorj\n\n#Beauty #Wellness #Skincare #Skin #Water #Hydrating #Selfcare https://t.co/x3jx1YIZua",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 191,
+    "createdAt": "Sat May 03 13:00:14 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918651817623187896",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "GraziaIndia",
+      "url": "https://x.com/GraziaIndia",
+      "twitterUrl": "https://twitter.com/GraziaIndia",
+      "id": "197150180",
+      "name": "Grazia India",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1178972508235517953/zKFi6mil_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/197150180/1745207208",
+      "description": "",
+      "location": "India",
+      "followers": 1510423,
+      "following": 364,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Thu Sep 30 19:33:10 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 656,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 18451,
+      "statusesCount": 52591,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1914164148898066582"
+      ],
+      "profile_bio": {
+        "description": "The Indian edition of Grazia, Europe's most popular style magazine, is a fab mix of latest trends, hottest beauty tips, thought-provoking features, and more",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "grazia.co.in",
+                "expanded_url": "http://www.grazia.co.in",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/pJwmLiuN6z"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/x3jx1YIZua",
+          "expanded_url": "https://twitter.com/GraziaIndia/status/1918651817623187896/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1918651808232218624",
+          "indices": [
+            163,
+            186
+          ],
+          "media_key": "3_1918651808232218624",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqga6d1V6AACgACGqBrqaUWcbgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqBrp3VXoAAKAAIaoGuppRZxuAAA",
+              "media_key": "3_1918651808232218624"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqBrp3VXoAAFWcI.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 745
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 270
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 119
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/x3jx1YIZua"
+        },
+        {
+          "display_url": "pic.twitter.com/x3jx1YIZua",
+          "expanded_url": "https://twitter.com/GraziaIndia/status/1918651817623187896/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 722,
+                  "y": 1278
+                },
+                {
+                  "h": 167,
+                  "w": 167,
+                  "x": 485,
+                  "y": 406
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 722,
+                  "y": 1278
+                },
+                {
+                  "h": 167,
+                  "w": 167,
+                  "x": 485,
+                  "y": 406
+                }
+              ]
+            }
+          },
+          "id_str": "1918651812019679232",
+          "indices": [
+            163,
+            186
+          ],
+          "media_key": "3_1918651812019679232",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqga6hXF7AACgACGqBrqaUWcbgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqBrqFcXsAAKAAIaoGuppRZxuAAA",
+              "media_key": "3_1918651812019679232"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqBrqFcXsAAhRXz.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 204
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 236,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/x3jx1YIZua"
+        },
+        {
+          "display_url": "pic.twitter.com/x3jx1YIZua",
+          "expanded_url": "https://twitter.com/GraziaIndia/status/1918651817623187896/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 287,
+                  "y": 1137
+                },
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 665,
+                  "y": 366
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 287,
+                  "y": 1137
+                },
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 665,
+                  "y": 366
+                }
+              ]
+            }
+          },
+          "id_str": "1918651815098191873",
+          "indices": [
+            163,
+            186
+          ],
+          "media_key": "3_1918651815098191873",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqga6kOlhABCgACGqBrqaUWcbgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqBrqQ6WEAEKAAIaoGuppRZxuAAA",
+              "media_key": "3_1918651815098191873"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqBrqQ6WEAE_PIA.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 1
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 34,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/x3jx1YIZua"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "text": "GraziaBeauty"
+        },
+        {
+          "indices": [
+            101,
+            108
+          ],
+          "text": "Beauty"
+        },
+        {
+          "indices": [
+            109,
+            118
+          ],
+          "text": "Wellness"
+        },
+        {
+          "indices": [
+            119,
+            128
+          ],
+          "text": "Skincare"
+        },
+        {
+          "indices": [
+            129,
+            134
+          ],
+          "text": "Skin"
+        },
+        {
+          "indices": [
+            135,
+            141
+          ],
+          "text": "Water"
+        },
+        {
+          "indices": [
+            142,
+            152
+          ],
+          "text": "Hydrating"
+        },
+        {
+          "indices": [
+            153,
+            162
+          ],
+          "text": "Selfcare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "grazia.co.in/beauty-and-hea…",
+          "expanded_url": "https://www.grazia.co.in/beauty-and-health/sip-glow-how-detox-water-became-the-new-beauty-elixir-14026.html",
+          "indices": [
+            76,
+            99
+          ],
+          "url": "https://t.co/z2Rm0TBorj"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918610312678297859",
+    "url": "https://x.com/PypAyurved/status/1918610312678297859",
+    "twitterUrl": "https://twitter.com/PypAyurved/status/1918610312678297859",
+    "text": "Patanjali Herbal Shaving Cream made from the natural extract of Ghritkumari, Pudina, Neem, Tulsi &amp; Haldi which moisturize, nourish and revitalize the skin.\n#PatanjaliProducts #HerbalShavingCream #Patanjali https://t.co/8NqTbGzysN",
+    "source": "Twitter for iPhone",
+    "retweetCount": 3,
+    "replyCount": 0,
+    "likeCount": 14,
+    "quoteCount": 0,
+    "viewCount": 588,
+    "createdAt": "Sat May 03 10:15:19 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918610312678297859",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "PypAyurved",
+      "url": "https://x.com/PypAyurved",
+      "twitterUrl": "https://twitter.com/PypAyurved",
+      "id": "708148004797030401",
+      "name": "Patanjali Ayurved",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/960482674786930689/Gh_H-EuI_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/708148004797030401/1744105646",
+      "description": "",
+      "location": "Haridwar, India",
+      "followers": 96031,
+      "following": 33,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Fri Mar 11 04:30:15 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 2534,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 7540,
+      "statusesCount": 20725,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1735526985810784613"
+      ],
+      "profile_bio": {
+        "description": "Official page of Patanjali Ayurved Limited.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "patanjaliayurved.net",
+                "expanded_url": "http://www.patanjaliayurved.net",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/IAy3l1iONY"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/8NqTbGzysN",
+          "expanded_url": "https://twitter.com/PypAyurved/status/1918610312678297859/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918610241203093505",
+          "indices": [
+            210,
+            233
+          ],
+          "media_key": "13_1918610241203093505",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqgRdlhVkABAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqBF2WFWQAEAAA==",
+              "media_key": "13_1918610241203093505"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1918610241203093505/img/Zh3aEIi1whxXO2A7.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1920,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1920,
+              "w": 1080
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/8NqTbGzysN",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 12021,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1918610241203093505/pl/_7hV4U2SgVpU8tv7.m3u8?tag=16"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918610241203093505/vid/avc1/320x568/xspqpkzLEY-33K_e.mp4?tag=16"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918610241203093505/vid/avc1/480x852/nhDJqDM2jgU9WjLM.mp4?tag=16"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918610241203093505/vid/avc1/720x1280/gnXs89UyND6i1Cec.mp4?tag=16"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918610241203093505/vid/avc1/1080x1920/a2t_j6GmyZ-hnEbT.mp4?tag=16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            160,
+            178
+          ],
+          "text": "PatanjaliProducts"
+        },
+        {
+          "indices": [
+            179,
+            198
+          ],
+          "text": "HerbalShavingCream"
+        },
+        {
+          "indices": [
+            199,
+            209
+          ],
+          "text": "Patanjali"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918281852558655522",
+    "url": "https://x.com/hdfcsec/status/1918281852558655522",
+    "twitterUrl": "https://twitter.com/hdfcsec/status/1918281852558655522",
+    "text": "Gold in AI chips, satellites—even skincare? 🪙  \nIt’s way more than just jewellery.  \nMr. Sachin Jain- Regional CEO India, World Gold Council reveals 4 surprising industries that use gold.  \n\n💬 Heard of any others? \nComment below!  \n #Gold #HDFCsecurities https://t.co/sytvpAK4BQ",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 532,
+    "createdAt": "Fri May 02 12:30:08 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918281852558655522",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "hdfcsec",
+      "url": "https://x.com/hdfcsec",
+      "twitterUrl": "https://twitter.com/hdfcsec",
+      "id": "150189063",
+      "name": "HDFC securities",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1912707975459811328/WxWlRg8Y_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/150189063/1744860094",
+      "description": "",
+      "location": "Mumbai",
+      "followers": 149602,
+      "following": 81,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Mon May 31 09:15:54 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 545,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 9410,
+      "statusesCount": 51316,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "HDFC securities is a leading stock broking company & subsidiary of HDFC Bank. \nBegin hassle-free investing by opening an HDFC Demat account.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/OfficialHDFCse…",
+                "expanded_url": "https://t.me/OfficialHDFCsecurities",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wKd4BUtwcr"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/sytvpAK4BQ",
+          "expanded_url": "https://twitter.com/hdfcsec/status/1918281852558655522/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918280641923153920",
+          "indices": [
+            255,
+            278
+          ],
+          "media_key": "7_1918280641923153920",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqfGhSRVoAACgACGp8bLnDWQCIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGp8aFJFWgAAKAAIanxsucNZAIgAA",
+              "media_key": "7_1918280641923153920"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1918280641923153920/pu/img/5uAL1zmoJIsb0VXU.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/sytvpAK4BQ",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 31466,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1918280641923153920/pu/pl/nAZVxOPmK6oejfJA.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280641923153920/pu/vid/avc1/320x568/U_zKV6Lomo9LxzR3.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280641923153920/pu/vid/avc1/480x852/kKZqXiHZZEOgb_Rt.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280641923153920/pu/vid/avc1/720x1280/mZTlGfbCZLm5ZIWk.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            233,
+            238
+          ],
+          "text": "Gold"
+        },
+        {
+          "indices": [
+            239,
+            254
+          ],
+          "text": "HDFCsecurities"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919365032615305369",
+    "url": "https://x.com/MysoreSandalIn/status/1919365032615305369",
+    "twitterUrl": "https://twitter.com/MysoreSandalIn/status/1919365032615305369",
+    "text": "Rediscover the magic of Mysore Sandal Soap - India's only soap made with 100% pure sandalwood oil!\n.\n.\n.\n#MysoreSandalSoap #SandalwoodSoap #HouseOfMysoreSandal #NatureGift #Skincare #NaturalBeauty #AyurvedicSoap #PureSandalwood #MysoreSandal #OrganicSoap #SkinCareRoutine https://t.co/Qo1AneOMmf",
+    "source": "Twitter for iPhone",
+    "retweetCount": 3,
+    "replyCount": 0,
+    "likeCount": 11,
+    "quoteCount": 0,
+    "viewCount": 168,
+    "createdAt": "Mon May 05 12:14:18 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919365032615305369",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "MysoreSandalIn",
+      "url": "https://x.com/MysoreSandalIn",
+      "twitterUrl": "https://twitter.com/MysoreSandalIn",
+      "id": "1757288975239376896",
+      "name": "House Of Mysore Sandal",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1757290925917974528/BDmZfW9F_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1757288975239376896/1707805809",
+      "description": "",
+      "location": "",
+      "followers": 325,
+      "following": 7,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Feb 13 06:22:39 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 37,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 401,
+      "statusesCount": 435,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "ಕರುನಾಡಿನ ಹೆಮ್ಮೆ\n\nWith a 100-year legacy, Mysore Sandal leads with a diverse range, featuring soap as its prime,  enriched with superior sandalwood oil.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Qo1AneOMmf",
+          "expanded_url": "https://twitter.com/MysoreSandalIn/status/1919365032615305369/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 134,
+                  "w": 134,
+                  "x": 392,
+                  "y": 500
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 134,
+                  "w": 134,
+                  "x": 392,
+                  "y": 500
+                }
+              ]
+            }
+          },
+          "id_str": "1919365017138593792",
+          "indices": [
+            272,
+            295
+          ],
+          "media_key": "3_1919365017138593792",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqi9FBY24AACgACGqL0U/NXYJkAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqL0UFjbgAAKAAIaovRT81dgmQAA",
+              "media_key": "3_1919365017138593792"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqL0UFjbgAAXTU1.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1120,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 73,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 450,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 2000
+          },
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "w": 2000
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Qo1AneOMmf"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            105,
+            122
+          ],
+          "text": "MysoreSandalSoap"
+        },
+        {
+          "indices": [
+            123,
+            138
+          ],
+          "text": "SandalwoodSoap"
+        },
+        {
+          "indices": [
+            139,
+            159
+          ],
+          "text": "HouseOfMysoreSandal"
+        },
+        {
+          "indices": [
+            160,
+            171
+          ],
+          "text": "NatureGift"
+        },
+        {
+          "indices": [
+            172,
+            181
+          ],
+          "text": "Skincare"
+        },
+        {
+          "indices": [
+            182,
+            196
+          ],
+          "text": "NaturalBeauty"
+        },
+        {
+          "indices": [
+            197,
+            211
+          ],
+          "text": "AyurvedicSoap"
+        },
+        {
+          "indices": [
+            212,
+            227
+          ],
+          "text": "PureSandalwood"
+        },
+        {
+          "indices": [
+            228,
+            241
+          ],
+          "text": "MysoreSandal"
+        },
+        {
+          "indices": [
+            242,
+            254
+          ],
+          "text": "OrganicSoap"
+        },
+        {
+          "indices": [
+            255,
+            271
+          ],
+          "text": "SkinCareRoutine"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919652171760509424",
+    "url": "https://x.com/AayushS56965697/status/1919652171760509424",
+    "twitterUrl": "https://twitter.com/AayushS56965697/status/1919652171760509424",
+    "text": "AG Organica: Leading Nagarmotha Oil Manufacturer &amp; Global Wholesale Supplier\nAG Organica is a trusted Nagarmotha Oil Manufacturer and Wholesale Supplier in India, offering 100% pure Nagarmotha Oil for skincare, wellness, and aromatherapy.\nhttps://t.co/Nph4Od1uog\n#NagarmothaOil https://t.co/JxfGNSuPfy",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 24,
+    "createdAt": "Tue May 06 07:15:17 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919652171760509424",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "AayushS56965697",
+      "url": "https://x.com/AayushS56965697",
+      "twitterUrl": "https://twitter.com/AayushS56965697",
+      "id": "1531258078095478785",
+      "name": "NBC News Tech",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1889140652471984128/wxcC-yn5_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "",
+      "followers": 18,
+      "following": 36,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon May 30 12:56:04 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 429,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 965,
+      "statusesCount": 997,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1852820716259082599"
+      ],
+      "profile_bio": {
+        "description": "We are the leading best herbal care manufacturer & suppliers in bulk worldwide. AG Industries is one of the most important manufacturing companies.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=AOCqJp…",
+                "expanded_url": "https://www.youtube.com/watch?v=AOCqJpg6g-Uym1bp0jEbGhaHcWxTL5RnKObOYYyOF",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/DwYNulwrRV"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/JxfGNSuPfy",
+          "expanded_url": "https://twitter.com/AayushS56965697/status/1919652171760509424/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1919652159987318786",
+          "indices": [
+            282,
+            305
+          ],
+          "media_key": "3_1919652159987318786",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqj+XgAWwACCgACGqP5er4XofAAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqP5eABbAAIKAAIao/l6vheh8AAA",
+              "media_key": "3_1919652159987318786"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqP5eABbAAIRKXi.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 180,
+                "w": 321,
+                "x": 0,
+                "y": 91
+              },
+              {
+                "h": 271,
+                "w": 271,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 271,
+                "w": 238,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 271,
+                "w": 136,
+                "x": 4,
+                "y": 0
+              },
+              {
+                "h": 271,
+                "w": 321,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 271,
+            "width": 321
+          },
+          "sizes": {
+            "large": {
+              "h": 271,
+              "w": 321
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JxfGNSuPfy"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            267,
+            281
+          ],
+          "text": "NagarmothaOil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pureoilsindia.com/product-catego…",
+          "expanded_url": "https://www.pureoilsindia.com/product-category/essential-oils",
+          "indices": [
+            243,
+            266
+          ],
+          "url": "https://t.co/Nph4Od1uog"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918288343726489683",
+    "url": "https://x.com/DInkIndia/status/1918288343726489683",
+    "twitterUrl": "https://twitter.com/DInkIndia/status/1918288343726489683",
+    "text": "Where design meets experience. A skincare store crafted to feel as flawless as the products it offers. Designed with purpose by Design Ink India.\n\n#RetailInteriorDesign #SkincareStoreDesign #LuxuryInteriors #CustomerExperience #ModernRetailDesign #DesignInkIndia #ElegantSpaces https://t.co/ucMccPzRp4",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 5,
+    "quoteCount": 0,
+    "viewCount": 150,
+    "createdAt": "Fri May 02 12:55:55 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918288343726489683",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "DInkIndia",
+      "url": "https://x.com/DInkIndia",
+      "twitterUrl": "https://twitter.com/DInkIndia",
+      "id": "1910343243616616448",
+      "name": "Design Ink India",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1912826615291154432/1_jaASIc_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1910343243616616448/1744888048",
+      "description": "",
+      "location": "Gurugram, Haryana. INDIA",
+      "followers": 54,
+      "following": 5,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 10 14:45:22 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 8,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Interior Design and Space Planning | Designing homes & offices with elegance and functionality | Based in Gurugram | https://t.co/BxD2td1xj5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/designinkindia",
+                "expanded_url": "http://instagram.com/designinkindia",
+                "indices": [
+                  117,
+                  140
+                ],
+                "url": "https://t.co/BxD2td1xj5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "designinkindia.com",
+                "expanded_url": "http://www.designinkindia.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/dotoC6A2lg"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ucMccPzRp4",
+          "expanded_url": "https://twitter.com/DInkIndia/status/1918288343726489683/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Rajeshwari 🇮🇳",
+                  "screen_name": "matkewali",
+                  "type": "user",
+                  "user_id": "53611269"
+                }
+              ]
+            },
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1918288332066287616",
+          "indices": [
+            278,
+            301
+          ],
+          "media_key": "3_1918288332066287616",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqfIRMRlnAACgACGp8hFciXAFMAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGp8hExGWcAAKAAIanyEVyJcAUwAA",
+              "media_key": "3_1918288332066287616"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/Gp8hExGWcAAt7EJ.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 339
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 101
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 26
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucMccPzRp4"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            147,
+            168
+          ],
+          "text": "RetailInteriorDesign"
+        },
+        {
+          "indices": [
+            169,
+            189
+          ],
+          "text": "SkincareStoreDesign"
+        },
+        {
+          "indices": [
+            190,
+            206
+          ],
+          "text": "LuxuryInteriors"
+        },
+        {
+          "indices": [
+            207,
+            226
+          ],
+          "text": "CustomerExperience"
+        },
+        {
+          "indices": [
+            227,
+            246
+          ],
+          "text": "ModernRetailDesign"
+        },
+        {
+          "indices": [
+            247,
+            262
+          ],
+          "text": "DesignInkIndia"
+        },
+        {
+          "indices": [
+            263,
+            277
+          ],
+          "text": "ElegantSpaces"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919318107539071021",
+    "url": "https://x.com/AmeyawDebrah/status/1919318107539071021",
+    "twitterUrl": "https://twitter.com/AmeyawDebrah/status/1919318107539071021",
+    "text": "Achieve smooth, glowing skin with Excellent Natural Products!\n\nPapaya Toning Lotion, Turmeric Soap &amp; Rice Serum, perfect for dark spots &amp; acne.\n\nAvailable in all shops nationwide. Bulk: 0592699091\n@excellent_touch1\n\n#ExcellentTouchNaturals\n#SkincareGoals\n#NaturalGlow https://t.co/foWEXN4aKX",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 1,
+    "likeCount": 8,
+    "quoteCount": 0,
+    "viewCount": 1385,
+    "createdAt": "Mon May 05 09:07:50 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919318107539071021",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "AmeyawDebrah",
+      "url": "https://x.com/AmeyawDebrah",
+      "twitterUrl": "https://twitter.com/AmeyawDebrah",
+      "id": "27955127",
+      "name": "Ameyaw Debrah",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1804926046396977152/I_DYkEbM_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/27955127/1719601949",
+      "description": "",
+      "location": "Ghana",
+      "followers": 1818099,
+      "following": 14396,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Mar 31 20:29:23 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 228492,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 35731,
+      "statusesCount": 336782,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1920103367793152296"
+      ],
+      "profile_bio": {
+        "description": "I am entertainment & lifestyle! Influencer | African pop culture curator | Blogger | Creator @ameyawtv |Book me: ads@ameyawdebrah.com",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  93,
+                  102
+                ],
+                "name": "",
+                "screen_name": "ameyawtv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameyawdebrah.com",
+                "expanded_url": "http://www.ameyawdebrah.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/x5HGrk8NXZ"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/foWEXN4aKX",
+          "expanded_url": "https://twitter.com/AmeyawDebrah/status/1919318107539071021/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 512,
+                  "y": 747
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 512,
+                  "y": 747
+                }
+              ]
+            }
+          },
+          "id_str": "1919318104389173248",
+          "indices": [
+            276,
+            299
+          ],
+          "media_key": "3_1919318104389173248",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqiyaWfF8AACgACGqLJplrXYC0AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqLJpZ8XwAAKAAIaosmmWtdgLQAA",
+              "media_key": "3_1919318104389173248"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqLJpZ8XwAAlPA4.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1280,
+                "w": 640,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1280,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1280,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 1024
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/foWEXN4aKX"
+        }
+      ]
+    },
+    "card": null,
+    "place": {
+      "bounding_box_polygon": {
+        "coordinates": [
+          [
+            [
+              -17.5302485,
+              12.3067185
+            ],
+            [
+              -17.5302485,
+              16.6926363
+            ],
+            [
+              -11.3462119,
+              16.6926363
+            ],
+            [
+              -11.3462119,
+              12.3067185
+            ],
+            [
+              -17.5302485,
+              12.3067185
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "country": "Senegal",
+      "country_code": "SN",
+      "full_name": "Senegal",
+      "id": "c5d6f8cac1a9be34",
+      "name": "Senegal",
+      "place_type": "country"
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            224,
+            247
+          ],
+          "text": "ExcellentTouchNaturals"
+        },
+        {
+          "indices": [
+            248,
+            262
+          ],
+          "text": "SkincareGoals"
+        },
+        {
+          "indices": [
+            263,
+            275
+          ],
+          "text": "NaturalGlow"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918251620363903407",
+    "url": "https://x.com/AromaMagicIndia/status/1918251620363903407",
+    "twitterUrl": "https://twitter.com/AromaMagicIndia/status/1918251620363903407",
+    "text": "Good skincare isn’t just about what goes on your skin - it’s about what goes into the planet too 🌎\n \nDr. @blossomkochhar shares why choosing sustainable, natural, and naturally derived ingredients is the glow-up your skin, and the Earth deserve.\n \nFrom oils and herbs to plant-based actives, it’s all about choosing products that are as kind to the Earth, as they are to your face.\n \nNext time you’re shopping for skincare, guess what one simple step you should never skip? 🛍\n\n#SustainableBeauty #CleanBeauty #NaturalGlow #SkincareThatCares #BeautyWithPurpose #GlowingSkinNaturally",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 26,
+    "createdAt": "Fri May 02 10:30:00 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918251620363903407",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "AromaMagicIndia",
+      "url": "https://x.com/AromaMagicIndia",
+      "twitterUrl": "https://twitter.com/AromaMagicIndia",
+      "id": "740816260808728576",
+      "name": "Aroma Magic India",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1767403204491587584/_MaXRc0t_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/740816260808728576/1743750686",
+      "description": "",
+      "location": "New Delhi, India",
+      "followers": 852,
+      "following": 11,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Jun 09 08:02:15 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 370,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1184,
+      "statusesCount": 1533,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Official page of Blossom Kochhar Aroma Magic, India’s 1st Aromatherapy based Beauty & Wellness brand by Dr. Blossom Kochhar. #EarthToBottle #AromaMagicIndia",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  125,
+                  139
+                ],
+                "text": "EarthToBottle"
+              },
+              {
+                "indices": [
+                  140,
+                  156
+                ],
+                "text": "AromaMagicIndia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aromamagic.com",
+                "expanded_url": "https://www.aromamagic.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/77yCgo3gCe"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/q7wPROXBq7",
+          "expanded_url": "https://twitter.com/AromaMagicIndia/status/1918251620363903407/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918201543322685440",
+          "indices": [
+            272,
+            295
+          ],
+          "media_key": "13_1918201543322685440",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqe0iP9WtAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGp7SI/1a0AAAAA==",
+              "media_key": "13_1918201543322685440"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1918201543322685440/img/hvk0zdWo9wthNu7s.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/q7wPROXBq7",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 60511,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1918201543322685440/pl/7kV5wBfWVCOb_2Ho.m3u8?tag=16"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918201543322685440/vid/avc1/320x568/1OUc3v5PBVRwVPhV.mp4?tag=16"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918201543322685440/vid/avc1/480x852/zRv03ANo7RpxqnAu.mp4?tag=16"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918201543322685440/vid/avc1/720x1280/RVjRQkHRP4dyxHPT.mp4?tag=16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            477,
+            495
+          ],
+          "text": "SustainableBeauty"
+        },
+        {
+          "indices": [
+            496,
+            508
+          ],
+          "text": "CleanBeauty"
+        },
+        {
+          "indices": [
+            509,
+            521
+          ],
+          "text": "NaturalGlow"
+        },
+        {
+          "indices": [
+            522,
+            540
+          ],
+          "text": "SkincareThatCares"
+        },
+        {
+          "indices": [
+            541,
+            559
+          ],
+          "text": "BeautyWithPurpose"
+        },
+        {
+          "indices": [
+            560,
+            581
+          ],
+          "text": "GlowingSkinNaturally"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "52024839",
+          "indices": [
+            105,
+            120
+          ],
+          "name": "Blossom Kochhar",
+          "screen_name": "blossomkochhar"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918345719360160098",
+    "url": "https://x.com/livelyyogita/status/1918345719360160098",
+    "twitterUrl": "https://twitter.com/livelyyogita/status/1918345719360160098",
+    "text": "\"Say goodbye to saggy skin and hello to a firmer, youthful glow! Your skin deserves the best care — tighten, tone, and transform today\n\n#jaishreeram\n#GOT7_NESTFESTinBKK\n#SkinTightening \n#YouthfulGlow \n#FaceLiftEffect \n#livelyyogita\n#SkincareRoutine\n#SkincareTips\n #GlowingSkin https://t.co/xcSKQfD0BW",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 67,
+    "createdAt": "Fri May 02 16:43:55 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918345719360160098",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "livelyyogita",
+      "url": "https://x.com/livelyyogita",
+      "twitterUrl": "https://twitter.com/livelyyogita",
+      "id": "706336307769798657",
+      "name": "Dr. Yogita Sharma (PUBLIC FIGURE)",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1221449844939579394/X3A0s4Ku_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/706336307769798657/1580061367",
+      "description": "",
+      "location": "Jaipur",
+      "followers": 5034,
+      "following": 5004,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Mar 06 04:31:13 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 11231,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1899,
+      "statusesCount": 2122,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "This is the Official X Page of \nDr. Yogita Sharma, Mrs.india queen. \nA renowned face in the field of Beauty, Fitness, Weightloss and Health Care industry.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpajz…",
+                "expanded_url": "https://www.youtube.com/channel/UCpajzuv_qPN8Ersky5P2Paw",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/hwPakiYpFA"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/xcSKQfD0BW",
+          "expanded_url": "https://twitter.com/livelyyogita/status/1918345719360160098/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918345694257266694",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "7_1918345694257266694",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqfVT6+msAGCgACGp9VRJbagWIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGp9VPr6awAYKAAIan1VEltqBYgAA",
+              "media_key": "7_1918345694257266694"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1918345694257266694/pu/img/F1MyPYj4eO2WP9sE.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/xcSKQfD0BW",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 23600,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1918345694257266694/pu/pl/XqmlOn4R6_V2yiHQ.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918345694257266694/pu/vid/avc1/320x568/j572MI6GTzseFkey.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918345694257266694/pu/vid/avc1/480x852/RoIn5Gh4NgMlt_60.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918345694257266694/pu/vid/avc1/720x1280/eVFVtNu3gfOgRl_i.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            136,
+            148
+          ],
+          "text": "jaishreeram"
+        },
+        {
+          "indices": [
+            149,
+            168
+          ],
+          "text": "GOT7_NESTFESTinBKK"
+        },
+        {
+          "indices": [
+            169,
+            184
+          ],
+          "text": "SkinTightening"
+        },
+        {
+          "indices": [
+            186,
+            199
+          ],
+          "text": "YouthfulGlow"
+        },
+        {
+          "indices": [
+            201,
+            216
+          ],
+          "text": "FaceLiftEffect"
+        },
+        {
+          "indices": [
+            218,
+            231
+          ],
+          "text": "livelyyogita"
+        },
+        {
+          "indices": [
+            232,
+            248
+          ],
+          "text": "SkincareRoutine"
+        },
+        {
+          "indices": [
+            249,
+            262
+          ],
+          "text": "SkincareTips"
+        },
+        {
+          "indices": [
+            264,
+            276
+          ],
+          "text": "GlowingSkin"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919484997268079039",
+    "url": "https://x.com/IshtarUK/status/1919484997268079039",
+    "twitterUrl": "https://twitter.com/IshtarUK/status/1919484997268079039",
+    "text": "Glow up for less 📷with Timeless Beauty Bundle!\nStruggling with breakouts, dryness, or dull skin? Our POWER TRIO is here to save your skin! https://t.co/H5cqtVNhQh #mandelicacid #AntioxidantSkincare #ceramides #skincareover40 https://t.co/N8C9ONVtLL",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 15,
+    "createdAt": "Mon May 05 20:11:00 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919484997268079039",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "IshtarUK",
+      "url": "https://x.com/IshtarUK",
+      "twitterUrl": "https://twitter.com/IshtarUK",
+      "id": "2417951258",
+      "name": "Ishtar Skincare",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/552033160104386561/yR_jzm8s_normal.png",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2417951258/1583080394",
+      "description": "",
+      "location": "UK",
+      "followers": 396,
+      "following": 232,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Mar 29 20:28:29 +0000 2014",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 506,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2591,
+      "statusesCount": 4488,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1234738590728540161"
+      ],
+      "profile_bio": {
+        "description": "Our mission is simple... We create formulas that are truly skin 'active,' rooted in nature but backed by science. Winner of a Gold Beauty Bible award.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishtarskin.care",
+                "expanded_url": "https://www.ishtarskin.care/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/ltK0YQZYNr"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/N8C9ONVtLL",
+          "expanded_url": "https://twitter.com/IshtarUK/status/1919484997268079039/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919096431509483520",
+          "indices": [
+            225,
+            248
+          ],
+          "media_key": "13_1919096431509483520",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqiAAlh17AAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqIACWHXsAAAAA==",
+              "media_key": "13_1919096431509483520"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1919096431509483520/img/s6xJMe2JEASZa_fQ.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/N8C9ONVtLL",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 10513,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1919096431509483520/pl/RHoxyVbsS-7xP9yy.m3u8?tag=14"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919096431509483520/vid/avc1/320x568/moKiVihFm-ozis9S.mp4?tag=14"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919096431509483520/vid/avc1/480x852/RgiigTCcd9qFYobS.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919096431509483520/vid/avc1/720x1280/NLL-TOYSxVQ7yd7h.mp4?tag=14"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            163,
+            176
+          ],
+          "text": "mandelicacid"
+        },
+        {
+          "indices": [
+            177,
+            197
+          ],
+          "text": "AntioxidantSkincare"
+        },
+        {
+          "indices": [
+            198,
+            208
+          ],
+          "text": "ceramides"
+        },
+        {
+          "indices": [
+            209,
+            224
+          ],
+          "text": "skincareover40"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ishtarskin.care/bundles/Timele…",
+          "expanded_url": "https://www.ishtarskin.care/bundles/Timeless%20Beauty%20Bundle",
+          "indices": [
+            139,
+            162
+          ],
+          "url": "https://t.co/H5cqtVNhQh"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919658412314657277",
+    "url": "https://x.com/HiranyamAyurved/status/1919658412314657277",
+    "twitterUrl": "https://twitter.com/HiranyamAyurved/status/1919658412314657277",
+    "text": "Why did queens in ancient India apply gold on their skin?\nIt wasn’t just luxury—it was science.\nHere’s a short thread on Swarna Bhasma (Gold Ash) and why we use it in Hiranyam skincare.\n#Ayurveda #Hiranyam #GoldSkincare https://t.co/ihLdOgyGOB",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 1,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 40,
+    "createdAt": "Tue May 06 07:40:05 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919658412314657277",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "HiranyamAyurved",
+      "url": "https://x.com/HiranyamAyurved",
+      "twitterUrl": "https://twitter.com/HiranyamAyurved",
+      "id": "1787412277215252480",
+      "name": "Hiranaym Ayurveda",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1918607405438382081/hThD45pH_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1787412277215252480/1746266694",
+      "description": "",
+      "location": "",
+      "followers": 3,
+      "following": 2,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon May 06 09:21:28 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 16,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 6,
+      "statusesCount": 16,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "सोने की शक्ति, आयुर्वेद का विज्ञान।\nहिरण्यम – प्राचीन सौंदर्य रहस्य।",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/ihLdOgyGOB",
+          "expanded_url": "https://twitter.com/HiranyamAyurved/status/1919658412314657277/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 783,
+                  "y": 1044
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 560,
+                  "y": 983
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 290,
+                  "y": 570
+                },
+                {
+                  "h": 93,
+                  "w": 93,
+                  "x": 547,
+                  "y": 893
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 3,
+                  "y": 746
+                },
+                {
+                  "h": 195,
+                  "w": 195,
+                  "x": 126,
+                  "y": 1123
+                },
+                {
+                  "h": 337,
+                  "w": 337,
+                  "x": 471,
+                  "y": 172
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 783,
+                  "y": 1044
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 560,
+                  "y": 983
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 290,
+                  "y": 570
+                },
+                {
+                  "h": 93,
+                  "w": 93,
+                  "x": 547,
+                  "y": 893
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 3,
+                  "y": 746
+                },
+                {
+                  "h": 195,
+                  "w": 195,
+                  "x": 126,
+                  "y": 1123
+                },
+                {
+                  "h": 337,
+                  "w": 337,
+                  "x": 471,
+                  "y": 172
+                }
+              ]
+            }
+          },
+          "id_str": "1919658394576707584",
+          "indices": [
+            220,
+            243
+          ],
+          "media_key": "3_1919658394576707584",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqj/yOa12AACgACGqP/J7wbAf0AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqP/I5rXYAAKAAIao/8nvBsB/QAA",
+              "media_key": "3_1919658394576707584"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqP_I5rXYAAAckf.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 69
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 169,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ihLdOgyGOB"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            186,
+            195
+          ],
+          "text": "Ayurveda"
+        },
+        {
+          "indices": [
+            196,
+            205
+          ],
+          "text": "Hiranyam"
+        },
+        {
+          "indices": [
+            206,
+            219
+          ],
+          "text": "GoldSkincare"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919307292131897507",
+    "url": "https://x.com/attigs/status/1919307292131897507",
+    "twitterUrl": "https://twitter.com/attigs/status/1919307292131897507",
+    "text": "Achieve smooth, glowing skin with Excellent Natural Products!\n\nPapaya Toning Lotion, Turmeric Soap &amp; Rice Serum, perfect for dark spots &amp; acne.\n\nAvailable in all shops nationwide. Bulk: 0592699091\n\n#ExcellentTouchNaturals\n#SkincareGoals\n#NaturalGlow https://t.co/YCsQZLR48G",
+    "source": "Twitter for iPhone",
+    "retweetCount": 3,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 200,
+    "createdAt": "Mon May 05 08:24:52 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919307292131897507",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "attigs",
+      "url": "https://x.com/attigs",
+      "twitterUrl": "https://twitter.com/attigs",
+      "id": "17275419",
+      "name": "Lion Nehemiah",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1698467037922619392/VKzAK_gX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/17275419/1502283762",
+      "description": "",
+      "location": "Accra, Ghana",
+      "followers": 5948,
+      "following": 2981,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Nov 09 22:55:55 +0000 2008",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 11880,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 805,
+      "statusesCount": 39050,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "CEO of Hatua Tech | Principal Lead @Odekro |Director,projects @ghanathink|Project Manager @ghanadecides |@informghana|#MUFC|#lakers",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  118,
+                  123
+                ],
+                "text": "MUFC"
+              },
+              {
+                "indices": [
+                  124,
+                  131
+                ],
+                "text": "lakers"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  35,
+                  42
+                ],
+                "name": "",
+                "screen_name": "Odekro"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  62,
+                  73
+                ],
+                "name": "",
+                "screen_name": "ghanathink"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  90,
+                  103
+                ],
+                "name": "",
+                "screen_name": "ghanadecides"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  105,
+                  117
+                ],
+                "name": "",
+                "screen_name": "informghana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hatua.tech",
+                "expanded_url": "http://www.hatua.tech",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/1aJHjlUfBs"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/YCsQZLR48G",
+          "expanded_url": "https://twitter.com/attigs/status/1919307292131897507/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 513,
+                  "y": 747
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 513,
+                  "y": 747
+                }
+              ]
+            }
+          },
+          "id_str": "1919307285404258304",
+          "indices": [
+            258,
+            281
+          ],
+          "media_key": "3_1919307285404258304",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqiv86hVxAACgACGqK/0DJWsKMAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqK/zqFXEAAKAAIaor/QMlawowAA",
+              "media_key": "3_1919307285404258304"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqK_zqFXEAAzMmF.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1280,
+                "w": 640,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1280,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1280,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 1024
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YCsQZLR48G"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            206,
+            229
+          ],
+          "text": "ExcellentTouchNaturals"
+        },
+        {
+          "indices": [
+            230,
+            244
+          ],
+          "text": "SkincareGoals"
+        },
+        {
+          "indices": [
+            245,
+            257
+          ],
+          "text": "NaturalGlow"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918281823961960576",
+    "url": "https://x.com/HDFCSKY/status/1918281823961960576",
+    "twitterUrl": "https://twitter.com/HDFCSKY/status/1918281823961960576",
+    "text": "Gold in AI chips, satellites—even skincare? 🪙  \nIt’s way more than just jewellery.  \nMr. Sachin Jain- Regional CEO India, World Gold Council reveals 4 surprising uses of gold on Make Money Matter.  \n\n💬 Heard of any others? \nComment below!  \n#MakeMoneyMatter #Gold #HDFCSKY https://t.co/4kiNjD1zaC",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 132,
+    "createdAt": "Fri May 02 12:30:01 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918281823961960576",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "HDFCSKY",
+      "url": "https://x.com/HDFCSKY",
+      "twitterUrl": "https://twitter.com/HDFCSKY",
+      "id": "1617768406719295489",
+      "name": "HDFC SKY",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1836419302674890752/qtk9gkvc_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1617768406719295489/1730797821",
+      "description": "",
+      "location": "Mumbai, India ",
+      "followers": 3820,
+      "following": 3,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Jan 24 06:17:44 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 6,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1446,
+      "statusesCount": 4938,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Don't just Invest, Make Money Matter!",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "hdfcsky.com",
+                "expanded_url": "https://hdfcsky.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/2hOzhZit6v"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/4kiNjD1zaC",
+          "expanded_url": "https://twitter.com/HDFCSKY/status/1918281823961960576/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918280654178963456",
+          "indices": [
+            273,
+            296
+          ],
+          "media_key": "7_1918280654178963456",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqfGhdr11AACgACGp8bJ8hXUIAAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGp8aF2vXUAAKAAIanxsnyFdQgAAA",
+              "media_key": "7_1918280654178963456"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1918280654178963456/pu/img/YOWs36GBU4g2XwGm.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4kiNjD1zaC",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 31400,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1918280654178963456/pu/pl/BFInHRgnlinEYmNp.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280654178963456/pu/vid/avc1/320x568/vAaqPgrfoXi4CIyz.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280654178963456/pu/vid/avc1/480x852/Aj8_Z6B7TYmOqI-V.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1918280654178963456/pu/vid/avc1/720x1280/fdKY3B-W36ybnvkA.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            241,
+            257
+          ],
+          "text": "MakeMoneyMatter"
+        },
+        {
+          "indices": [
+            258,
+            263
+          ],
+          "text": "Gold"
+        },
+        {
+          "indices": [
+            264,
+            272
+          ],
+          "text": "HDFCSKY"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919370280499056815",
+    "url": "https://x.com/ayushakti_ind/status/1919370280499056815",
+    "twitterUrl": "https://twitter.com/ayushakti_ind/status/1919370280499056815",
+    "text": "We at Ayushakti Ayurveda not just cure the symptoms but eradicate the root of the problem. \n\n( Ayurvedic, diet, skin, Foods, glowing, Dr. Smita Naram, skincare, tipsAyurveda, healthy, skin, eat, clearskin,  Skinhealing, foods , Ayurvedic, skincare, routine ) https://t.co/Ecbp0Omaoi",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 12,
+    "createdAt": "Mon May 05 12:35:09 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919370280499056815",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "ayushakti_ind",
+      "url": "https://x.com/ayushakti_ind",
+      "twitterUrl": "https://twitter.com/ayushakti_ind",
+      "id": "1595205529",
+      "name": "Ayushakti Ayurved",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1899112864238956544/TOeb8Ts4_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1595205529/1741342412",
+      "description": "",
+      "location": "India",
+      "followers": 1359,
+      "following": 159,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Mon Jul 15 06:50:27 +0000 2013",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 424,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2546,
+      "statusesCount": 7617,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Ayushakti’s continuous research in providing proven natural solutions has helped thousands of people to get rid of their ailments!",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayushakti.com",
+                "expanded_url": "http://ayushakti.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/qCvnMoKvtk"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Ecbp0Omaoi",
+          "expanded_url": "https://twitter.com/ayushakti_ind/status/1919370280499056815/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919369757221896192",
+          "indices": [
+            259,
+            282
+          ],
+          "media_key": "7_1919369757221896192",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARqi+J/71sAACgACGqL5GdGWkK8AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGqL4n/vWwAAKAAIaovkZ0ZaQrwAA",
+              "media_key": "7_1919369757221896192"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1919369757221896192/pu/img/49gu2BDXFk3i8VwF.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Ecbp0Omaoi",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 52433,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1919369757221896192/pu/pl/nCMBlJiHPMbMtBHn.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919369757221896192/pu/vid/avc1/320x568/_eyvcOVIbySt0qqL.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919369757221896192/pu/vid/avc1/480x852/6u_KdlcjPvs0FHFv.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1919369757221896192/pu/vid/avc1/720x1280/qGKg1XskIgN4aCjv.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918265083664224475",
+    "url": "https://x.com/kvicindia/status/1918265083664224475",
+    "twitterUrl": "https://twitter.com/kvicindia/status/1918265083664224475",
+    "text": "This Khadi herbal face ubtan is a blend of ancient Indian herbs and other natural ingredients for complete facial care. The combination of Rose ad Sandal extracts and herbs provides deep cleansing to the skin by removing oil, dirt and dead cells and moisturizes the skin. Its medicinal properties help control acnes, dark patches on the face and improves the skin texture naturally.\n\nVisit your nearest #Khadi Gramodyog Bhavan to purchase all #KVIProducts or Shop online at https://t.co/4m1JZLjDHb\n\n#KVIC\n#KhadiIndia\n#KhadiWave\n#Swadeshi\n#Artisans\n#VocalForLocal\n#KhadiRevolution\n#KhadiForNation\n#KhadiRising\n#KhadiForFashion\n#MyKhadiMyPride\n#MyProductMyPride\n#MakeinIndia\n#ViksitBharat\n#AatmanirbharBharat",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 190,
+    "createdAt": "Fri May 02 11:23:30 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918265083664224475",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "kvicindia",
+      "url": "https://x.com/kvicindia",
+      "twitterUrl": "https://twitter.com/kvicindia",
+      "id": "3313345446",
+      "name": "Khadi India",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1567836308881686528/BuR27I0z_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3313345446/1725005854",
+      "description": "",
+      "location": "Mumbai, India",
+      "followers": 22233,
+      "following": 179,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 12 13:39:47 +0000 2015",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 5780,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 5222,
+      "statusesCount": 10130,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1914649467942318139"
+      ],
+      "profile_bio": {
+        "description": "Khadi & Village Industries Commission | Ministry of MSME, Government of India  | Committed towards making India a self- reliant sustainable economy.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "kvic.gov.in",
+                "expanded_url": "https://www.kvic.gov.in",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/KoMNOu9t0N"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/JAuQxTD3ym",
+          "expanded_url": "https://twitter.com/kvicindia/status/1918265083664224475/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1918265012369358848",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "13_1918265012369358848",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqfC92HVgAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGp8L3YdWAAAAAA==",
+              "media_key": "13_1918265012369358848"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1918265012369358848/img/0PUKbrPzJEWmUqq6.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/JAuQxTD3ym",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 11311,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1918265012369358848/pl/Tvr51NThxxWrTM9z.m3u8?tag=21"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918265012369358848/vid/avc1/320x320/XNyYCb01XA6l4irq.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918265012369358848/vid/avc1/540x540/jEmLxxmLHtajfV4x.mp4?tag=21"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918265012369358848/vid/avc1/720x720/_0m9ZFdKyrwoxdCp.mp4?tag=21"
+              },
+              {
+                "bitrate": 8768000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1918265012369358848/vid/avc1/1080x1080/S4wUsNC3iHp-Btfx.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            403,
+            409
+          ],
+          "text": "Khadi"
+        },
+        {
+          "indices": [
+            443,
+            455
+          ],
+          "text": "KVIProducts"
+        },
+        {
+          "indices": [
+            499,
+            504
+          ],
+          "text": "KVIC"
+        },
+        {
+          "indices": [
+            505,
+            516
+          ],
+          "text": "KhadiIndia"
+        },
+        {
+          "indices": [
+            517,
+            527
+          ],
+          "text": "KhadiWave"
+        },
+        {
+          "indices": [
+            528,
+            537
+          ],
+          "text": "Swadeshi"
+        },
+        {
+          "indices": [
+            538,
+            547
+          ],
+          "text": "Artisans"
+        },
+        {
+          "indices": [
+            548,
+            562
+          ],
+          "text": "VocalForLocal"
+        },
+        {
+          "indices": [
+            563,
+            579
+          ],
+          "text": "KhadiRevolution"
+        },
+        {
+          "indices": [
+            580,
+            595
+          ],
+          "text": "KhadiForNation"
+        },
+        {
+          "indices": [
+            596,
+            608
+          ],
+          "text": "KhadiRising"
+        },
+        {
+          "indices": [
+            609,
+            625
+          ],
+          "text": "KhadiForFashion"
+        },
+        {
+          "indices": [
+            626,
+            641
+          ],
+          "text": "MyKhadiMyPride"
+        },
+        {
+          "indices": [
+            642,
+            659
+          ],
+          "text": "MyProductMyPride"
+        },
+        {
+          "indices": [
+            660,
+            672
+          ],
+          "text": "MakeinIndia"
+        },
+        {
+          "indices": [
+            673,
+            686
+          ],
+          "text": "ViksitBharat"
+        },
+        {
+          "indices": [
+            687,
+            706
+          ],
+          "text": "AatmanirbharBharat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "khadiindia.gov.in",
+          "expanded_url": "http://khadiindia.gov.in",
+          "indices": [
+            474,
+            497
+          ],
+          "url": "https://t.co/4m1JZLjDHb"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1920331879766491558",
+    "url": "https://x.com/startupexitsind/status/1920331879766491558",
+    "twitterUrl": "https://twitter.com/startupexitsind/status/1920331879766491558",
+    "text": "Korean skincare meets Indian beauty! 🇰🇷🇮🇳\n\nKORINMI raises 💰₹3 Cr from investors like (ex-CEO of Kaya) to bring tech-driven skin solutions to India.\n\n💆‍♀️ 3D skin analysis for personalized treatments \n➡️ Non-invasive &amp; D2C skincare line for glowing, healthier skin 🌟\n#Skincare https://t.co/r7raDngj7W",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 34,
+    "createdAt": "Thu May 08 04:16:12 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1920331879766491558",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "startupexitsind",
+      "url": "https://x.com/startupexitsind",
+      "twitterUrl": "https://twitter.com/startupexitsind",
+      "id": "1897501537687232515",
+      "name": "Startup India Daily",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913906445265121280/jN0C963h_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1897501537687232515/1741243508",
+      "description": "",
+      "location": "",
+      "followers": 39,
+      "following": 10,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Thu Mar 06 04:22:26 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 392,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 222,
+      "statusesCount": 249,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Decoding India's startup news & the 'why' behind it—simply explained!",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r7raDngj7W",
+          "expanded_url": "https://twitter.com/startupexitsind/status/1920331879766491558/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 149,
+                  "w": 149,
+                  "x": 1025,
+                  "y": 367
+                },
+                {
+                  "h": 134,
+                  "w": 134,
+                  "x": 10,
+                  "y": 360
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 149,
+                  "w": 149,
+                  "x": 1025,
+                  "y": 367
+                },
+                {
+                  "h": 134,
+                  "w": 134,
+                  "x": 10,
+                  "y": 360
+                }
+              ]
+            }
+          },
+          "id_str": "1920331876348092416",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1920331876348092416",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqmY6rMlmAACgACGqZjq5hXAaYAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqZjqsyWYAAKAAIapmOrmFcBpgAA",
+              "media_key": "3_1920331876348092416"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqZjqsyWYAANcBf.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 746,
+                "w": 1333,
+                "x": 0,
+                "y": 587
+              },
+              {
+                "h": 1333,
+                "w": 1333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1333,
+                "w": 1169,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1333,
+                "w": 667,
+                "x": 233,
+                "y": 0
+              },
+              {
+                "h": 1333,
+                "w": 1333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1333,
+            "width": 1333
+          },
+          "sizes": {
+            "large": {
+              "h": 1333,
+              "w": 1333
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/r7raDngj7W"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            270,
+            279
+          ],
+          "text": "Skincare"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919368299277635613",
+    "url": "https://x.com/akdcalcuttanews/status/1919368299277635613",
+    "twitterUrl": "https://twitter.com/akdcalcuttanews/status/1919368299277635613",
+    "text": "ত্বকে সানস্ক্রিনের প্রয়োজনীয়তা। Skin Care বিস্তারিত জানতে যোগাযোগ করুন  +91 9830842471 #arishbionatural   #beautycare #beautyproducts  #sunscreen https://t.co/S3qn8VVHO5",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 22,
+    "createdAt": "Mon May 05 12:27:17 +0000 2025",
+    "lang": "bn",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919368299277635613",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "akdcalcuttanews",
+      "url": "https://x.com/akdcalcuttanews",
+      "twitterUrl": "https://twitter.com/akdcalcuttanews",
+      "id": "3282396500",
+      "name": "Calcutta News",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1795471607210684416/_NbXANpf_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3282396500/1740136671",
+      "description": "",
+      "location": "Birati,Kolkata",
+      "followers": 31705,
+      "following": 86,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Fri Jul 17 12:21:07 +0000 2015",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 7,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 36305,
+      "statusesCount": 48452,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1860194477631242509"
+      ],
+      "profile_bio": {
+        "description": "24x7 Bengali News Channel by Calcutta Television Network Pvt. Ltd.\n\nOfficial Youtube Channel : https://t.co/toF8NUGSGM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@calcuttanews",
+                "expanded_url": "http://youtube.com/@calcuttanews",
+                "indices": [
+                  95,
+                  118
+                ],
+                "url": "https://t.co/toF8NUGSGM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/akdcalcuttanews",
+                "expanded_url": "https://www.facebook.com/akdcalcuttanews",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/aw1ntd8fJo"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/S3qn8VVHO5",
+          "expanded_url": "https://twitter.com/akdcalcuttanews/status/1919368299277635613/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1919368054925901824",
+          "indices": [
+            148,
+            171
+          ],
+          "media_key": "13_1919368054925901824",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARqi9xOjF0AAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGqL3E6MXQAAAAA==",
+              "media_key": "13_1919368054925901824"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1919368054925901824/img/FpkiRoYkSMGgFUHX.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/S3qn8VVHO5",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 255550,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1919368054925901824/pl/V2HmjRGR7MGM_byq.m3u8?tag=16"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919368054925901824/vid/avc1/480x270/2xEJ3WezgriDqlOb.mp4?tag=16"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919368054925901824/vid/avc1/640x360/wPntO4utQuC8qRN2.mp4?tag=16"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919368054925901824/vid/avc1/1280x720/VEgILumzxwLDSM-1.mp4?tag=16"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1919368054925901824/vid/avc1/1920x1080/sfLwU8tQDvUBEglF.mp4?tag=16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            89,
+            105
+          ],
+          "text": "arishbionatural"
+        },
+        {
+          "indices": [
+            108,
+            119
+          ],
+          "text": "beautycare"
+        },
+        {
+          "indices": [
+            120,
+            135
+          ],
+          "text": "beautyproducts"
+        },
+        {
+          "indices": [
+            137,
+            147
+          ],
+          "text": "sunscreen"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1918494504815829366",
+    "url": "https://x.com/PRAVINBANODKAR/status/1918494504815829366",
+    "twitterUrl": "https://twitter.com/PRAVINBANODKAR/status/1918494504815829366",
+    "text": "#Education #KoreanGlassSkin #India #Skincare #skincare #goals  https://t.co/5erchnXVKP",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 1,
+    "viewCount": 92,
+    "createdAt": "Sat May 03 02:35:08 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1918494504815829366",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "PRAVINBANODKAR",
+      "url": "https://x.com/PRAVINBANODKAR",
+      "twitterUrl": "https://twitter.com/PRAVINBANODKAR",
+      "id": "38835513",
+      "name": "Dr PRAVIN BANODKAR",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/867902512896110593/sf2oZ2k1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/38835513/1624421599",
+      "description": "",
+      "location": "MUMBAI",
+      "followers": 2775,
+      "following": 1642,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Sat May 09 11:00:52 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 305,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 801,
+      "statusesCount": 6897,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "The Official Twitter Dermatology Hub , Mumbai Dermatologist Expert in Botox , Fillers , Laser treatments ,Dermatosurgery and Children's Skin Diseases",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "skincrestclinic.com",
+                "expanded_url": "http://www.skincrestclinic.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GK2p309LQL"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": {
+      "binding_values": [
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.instagram.com"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "user_value": {
+              "id_str": "180505807"
+            }
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "instagram.com"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Skin Beyond Borders (@skinbbofficial) • Instagram reel"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/5erchnXVKP"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "iPhone",
+            "version": "13"
+          }
+        }
+      },
+      "name": "summary_large_image",
+      "url": "https://t.co/5erchnXVKP",
+      "user_refs_results": [
+        {
+          "rest_id": "180505807",
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1570
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/180505807/1680643771"
+            },
+            "core": {
+              "created_at": "Thu Aug 19 20:11:11 +0000 2010",
+              "name": "Instagram",
+              "screen_name": "instagram"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "exclusive_tweet_following": false,
+            "identity_profile_labels_highlighted_label": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/profile_images/1453818753880190978/HqrrEcrI_bigger.png"
+                },
+                "description": "Meta",
+                "url": {
+                  "url": "https://twitter.com/Meta",
+                  "url_type": "DeepLink"
+                },
+                "user_label_type": "BusinessLabel",
+                "user_label_display_type": "Badge"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {},
+            "pinned_items": {},
+            "privacy": {},
+            "private_super_following": false,
+            "profile_bio": {
+              "description": "Discover what's new on Instagram 🔎✨",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "help.instagram.com",
+                      "expanded_url": "http://help.instagram.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/tydS4erjVY"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Square",
+            "profile_metadata": {
+              "profile_interstitial_type": "",
+              "profile_link_color": "ED4956"
+            },
+            "profile_translation": {
+              "translator_type_enum": "Regular"
+            },
+            "properties": {
+              "has_extended_profile": false
+            },
+            "relationship_counts": {
+              "followers": 32163367,
+              "following": 232
+            },
+            "relationship_perspectives": {},
+            "rest_id": "180505807",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5014,
+              "tweets": 16645
+            },
+            "website": {
+              "url": "https://t.co/tydS4erjVY"
+            },
+            "verification": {
+              "is_blue_verified": true,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "Education"
+        },
+        {
+          "indices": [
+            11,
+            27
+          ],
+          "text": "KoreanGlassSkin"
+        },
+        {
+          "indices": [
+            28,
+            34
+          ],
+          "text": "India"
+        },
+        {
+          "indices": [
+            35,
+            44
+          ],
+          "text": "Skincare"
+        },
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "skincare"
+        },
+        {
+          "indices": [
+            55,
+            61
+          ],
+          "text": "goals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "instagram.com/reel/DHTYU1stP…",
+          "expanded_url": "https://www.instagram.com/reel/DHTYU1stPRb/?igsh=czRtNHZzMWR2NTJ2",
+          "indices": [
+            63,
+            86
+          ],
+          "url": "https://t.co/5erchnXVKP"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1919279141733458233",
+    "url": "https://x.com/bairskincare/status/1919279141733458233",
+    "twitterUrl": "https://twitter.com/bairskincare/status/1919279141733458233",
+    "text": "Achieve radiant, healthy skin with this powerful trio:\n✨Salicylic Acid &amp; Niacinamide Toner to unclog pores and soothe skin\n✨Hyaluronic Acid Serum for deep hydration\n✨Vitamin C Serum to brighten and protect\n\nShop at https://t.co/c4QQOb8s4a and @BeautyonTApp \n\n#skincare #skin https://t.co/mZXYqwfBT0",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 219,
+    "createdAt": "Mon May 05 06:33:00 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1919279141733458233",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "bairskincare",
+      "url": "https://x.com/bairskincare",
+      "twitterUrl": "https://twitter.com/bairskincare",
+      "id": "1696519029371121664",
+      "name": "B’Air Skincare",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1697575598242013185/EYnMns2G_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "",
+      "followers": 789,
+      "following": 2,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Aug 29 13:44:02 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 160,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 348,
+      "statusesCount": 537,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "✨Your Journey to Healthy Skin Starts Here✨",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "bairskincare.co.za",
+                "expanded_url": "http://www.bairskincare.co.za",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/DwW5ZXZf8I"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/mZXYqwfBT0",
+          "expanded_url": "https://twitter.com/bairskincare/status/1919279141733458233/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 31,
+                  "y": 951
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 31,
+                  "y": 951
+                }
+              ]
+            }
+          },
+          "id_str": "1919279132891824128",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1919279132891824128",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqipjPc1kAACgACGqKmNevW4TkAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGqKmM9zWQAAKAAIaoqY169bhOQAA",
+              "media_key": "3_1919279132891824128"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GqKmM9zWQAA-S4W.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 947,
+                "x": 133,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 540,
+                "x": 540,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mZXYqwfBT0"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            263,
+            272
+          ],
+          "text": "skincare"
+        },
+        {
+          "indices": [
+            273,
+            278
+          ],
+          "text": "skin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bairskincare.co.za",
+          "expanded_url": "http://www.bairskincare.co.za",
+          "indices": [
+            219,
+            242
+          ],
+          "url": "https://t.co/c4QQOb8s4a"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "701144817779273728",
+          "indices": [
+            247,
+            260
+          ],
+          "name": "Shop Beauty on TApp",
+          "screen_name": "BeautyonTApp"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  }
+]
