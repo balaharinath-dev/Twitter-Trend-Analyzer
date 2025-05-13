@@ -4,7 +4,7 @@ import os
 import streamlit as st
 
 def fetch_tweets(keyword, pages, weeks, region):
-    API_KEY = st.secrets("X_API_KEY")
+    API_KEY = st.secrets["X_API_KEY"]
 
     since_time = (datetime.datetime.now() - datetime.timedelta(weeks=weeks)).strftime('%Y-%m-%d_%H:%M:%S_UTC')
 

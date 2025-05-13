@@ -5,7 +5,7 @@ import streamlit as st
 
 load_dotenv()
 def summarize_with_gemini(tweets_data):
-    api_key = st.secrets("GEMINI_API_KEY")
+    api_key = st.secrets["GEMINI_API_KEY"]
     if not api_key:
         return {"error": "API key not found. Please set GEMINI_API_KEY in your .env file."}
 
